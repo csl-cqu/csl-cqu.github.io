@@ -1,0 +1,3 @@
+# === Taxonomy ===
+[allSome]
+other = "{{ .Some }}"
