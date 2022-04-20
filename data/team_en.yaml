@@ -1,0 +1,34 @@
+- name: Tao Xiang (向涛)
+  photo: TaoXiang.jpg
+  info: Professor
+  email: txiang@cqu.edu.cn
+  biography: Tao Xiang received the B.Eng., M.S. and Ph.D. degrees in computer science from Chongqing University, China, in 2003, 2005, and 2008, respectively. He is currently a Professor of the College of Computer Science at Chongqing University. Dr. Xiang’s research interests include multimedia security, cloud security, data privacy and cryptography. He has published over 100 papers on international journals and conferences. He also served as a referee for numerous international journals and conferences.
+  url: http://www.cs.cqu.edu.cn/info/1331/4246.htm
+
+- name: Ning Wang (王宁)
+  photo: NingWang.jpg
+  info: Professor
+  email: nwang5@cqu.edu.cn
+  biography: Ning Wang (Member, IEEE) received the Ph.D. degree in information and communication engineering from Beijing University of Post and Telecommunication, Beijing, China, in 2017.,He was an Engineer with Huaxin Post and Telecommunications Consulting Design Company Ltd., Hangzhou, China, from 2012 to 2013. He was with the Department of Electrical and Computer Engineering, George Mason University, Fairfax, VA, USA, as a Postdoctoral Scholar from 2017 to 2020. He is currently a Professor with the College of Computer Science, Chongqing University, Chongqing, China. His current research interests are in physical layer security, machine learning, RF fingerprinting, and cyber–physical system security and privacy.
+  url: http://www.cs.cqu.edu.cn/info/1331/5167.htm
+
+- name: Shangwei Guo (郭尚伟)
+  photo: ShangweiGuo.jpg
+  info: Associate Professor
+  email: swguo@cqu.edu.cn
+  biography: Shangwei is an associate professor in the College of Computer Science, Chongqing University. He worked as a postdoctoral research fellow at the Database Lab, Hong Kong Baptist University from 2018 to 2019 (supervised by Prof. Jianliang XU). Before joining CQU, he worked as a research fellow at the Cyber Security Lab, School of Computer Science and Engineering, Nanyang Technological University from 2019 to 2020 (supervised by Prof. Yang LIU and Prof. Tianwei ZHANG). He obtained his PhD degree from the School of Computer Science, Chongqing University (supervised by Prof. Tao XIANG).
+  url: https://guoshangwei.github.io/
+
+- name: Biwen Chen (陈泌文)
+  photo: BiwenChen.jpg
+  info: Research Assistant Professor
+  email: macrochen@cqu.edu.cn
+  biography: Biwen Chen received his Ph.D. degree from School of Computer, Wuhan University in 2020. He is currently a research assistant professor of the School of Computer, Chongqing University, China. His main research interests include cryptography, information security and blockchain.
+  url: http://www.cs.cqu.edu.cn/info/1333/5147.htm
+
+- name: Yan Gan (淦艳)
+  photo: YanGan.jpg
+  info: Research Assistant Professor
+  email: shiyangancq@cqu.edu.cn
+  biography: Yan Gan received the Ph.D. of Computer Science in University of Electronic Science and Technology of China, Chengdu, China. He is currently a research assistant professor of the School of Computer, Chongqing University, China. His current research interests include machine learning and computer vision. He is a reviewer for several journals, such as Engineering applications of artificial intelligence, Neurocomputing.
+  url: http://www.cs.cqu.edu.cn/info/1333/5281.htm

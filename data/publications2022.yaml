@@ -1,0 +1,30 @@
+- title: "BMIF: Privacy-Preserving Blockchain-Based Medical Image Fusion"
+  authors: Tao Xiang, Honghong Zeng, Biwen Chen, Shangwei Guo
+  publication: ACM Transactions on Multimedia Computing Communications and Applications
+  link: #
+  ccf_rank: B
+
+- title: Triggerless Backdoor Attack for NLP Tasks with Clean Labels
+  authors: Leilei Gan, Jiwei Li, Tianwei Zhang, Xiaoya Li, Yuxian Meng, Fei Wu, Yi Yang, Shangwei Guo, Chun Fan
+  publication: North American Chapter of the Association for Computational Linguistics (NAACL)
+  link: https://arxiv.org/abs/2112.10183
+  cqu_rank: A
+
+- title: "NASPY: Automated Extraction of Automated Machine Learning Models"
+  highlight: Spotlight
+  authors: Xiaoxuan Lou, Shangwei Guo, Jiwei Li, Yaoxin Wu, Tianwei Zhang
+  publication: International Conference on Learning Representations (ICLR)
+  link: https://openreview.net/forum?id=KhLK0sHMgXK
+  cqu_rank: A+
+
+- title: "BadPre: Task-agnostic Backdoor Attacks to Pre-trained NLP Foundation Models"
+  authors: Kangjie Chen, Yuxian Meng, Xiaofei Sun, Shangwei Guo, Tianwei Zhang, Jiwei Li, Chun Fan
+  publication: International Conference on Learning Representations (ICLR)
+  link: https://arxiv.org/abs/2110.02467
+  cqu_rank: A
+
+- title: "EGM: An Efficient Generative Model for Unrestricted Adversarial Examples"
+  authors: Tao Xiang, Hangcheng Liu, Shangwei Guo, Yan Gan, Xiaofeng Liao
+  publication: ACM Transactions on Sensor Networks
+  link: https://dl.acm.org/doi/abs/10.1145/3511893
+  ccf_rank: B

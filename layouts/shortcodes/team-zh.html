@@ -1,0 +1,32 @@
+<div>
+{{ range .Site.Data.team_zh }}
+    <div class="team-member">
+        <div class="team-member-photo">
+            <img src="/team/{{ .photo }}">
+        </div>
+        <h3 style="margin-bottom: 0px;">{{ .name }}</h3>
+        <p>
+            <i class="fas fa-user fa-fw"></i>&nbsp;{{ .info }}<br>
+            <i class="fas fa-envelope fa-fw"></i>&nbsp;<a href="mailto:{{.email}}">{{.email}}</a><br>
+            <i class="fas fa-link fa-fw"></i>&nbsp;<a href="{{.url}}">{{.url}}</a>
+        </p>
+        <p></p>
+        <p><i class="fas fa-info-circle fa-fw"></i>&nbsp;{{ .biography }}</p>
+    </div>
+{{ end }}
+</div>
+
+<style>
+    .team-member-photo {
+        width: 100px;
+        height: 100px;
+        display: flex;
+        /* border-radius: 50%; */
+        align-items: center;
+        justify-content: center;
+        overflow: hidden;
+        float: left;
+        margin-right: 10px;
+        margin-bottom: 10px;
+    }
+</style>

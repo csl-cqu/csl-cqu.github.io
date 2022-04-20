@@ -7,5 +7,4 @@ lightgallery: true
 math:
   enable: true
 ---
-
-...
+{{< team-en >}}

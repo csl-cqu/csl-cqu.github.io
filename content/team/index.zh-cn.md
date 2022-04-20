@@ -8,4 +8,4 @@ math:
   enable: true
 ---
 
-...
+{{< team-zh >}}
