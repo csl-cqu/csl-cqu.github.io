@@ -1,0 +1,9 @@
+<div>
+    {{ range .Site.Data.quick_link_zh }}
+    <div>
+        <a href="{{.link}}" target="_blank" rel="noopener noreferrer">
+            {{.title}}
+        </a>
+    </div>
+    {{ end }}
+</div>
