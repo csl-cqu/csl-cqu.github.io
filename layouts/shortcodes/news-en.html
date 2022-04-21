@@ -6,7 +6,7 @@
             <div style="font-size: .875rem; color: #a9a9b3;">
                 <i class="fas fa-user-circle fa-fw"></i>&nbsp;{{.author}}&nbsp;<i class="far fa-calendar-alt fa-fw"></i>&nbsp;{{.date}}
             </div>
-            <div> {{ .detail | safeHTML }} </div>
+            <div style="text-align:justify">{{ .detail | safeHTML }}</div>
             <hr>
         </div>
         {{ else }}
