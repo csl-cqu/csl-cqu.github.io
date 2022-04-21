@@ -3,34 +3,51 @@
   info: Professor, IEEE Fellow
   email: xfliao [at] cqu [dot] edu [dot] cn
   biography: Xiaofeng Liao received the B.S. and M.S. degrees in mathematics from Sichuan University, Chengdu, China, in 1986 and 1992, respectively, and the Ph.D. degree in circuits and systems from the University of Electronic Science and Technology of China, Chengdu, in 1997. From 1999 to 2012, he was a Professor with Chongqing University, Chongqing, China. From July 2012 to July 2018, he was a Professor and the Dean of the College of Electronic and Information Engineering, Southwest University, Chongqing. He is currently a Professor and the Dean of the College of Computer Science, Chongqing University. He is also a Yangtze River Scholar of the Ministry of Education of China, Beijing, China. From November 1997 to April 1998, he was a Research Associate with the Chinese University of Hong Kong, Hong Kong. From October 1999 to October 2000, he was a Research Associate with the City University of Hong Kong, Hong Kong. From March 2001 to June 2001 and March 2002 to June 2002, he was a Senior Research Associate at the City University of Hong Kong. From March 2006 to April 2007, he was a Research Fellow at the City University of Hong Kong. He holds five patents, and published four books and over 300 international journal and conference papers. His current research interests include optimization and control, machine learning, privacy protection, neural networks, and bifurcation and chaos. Prof. Liao currently serves as an Associate Editor of the IEEE Transactions on Cybernetics and IEEE Transactions on Neural Networks and Learning Systems
+  position: director
 
 - name: Tao Xiang (向涛)
   photo: TaoXiang.jpg
   info: Professor
   email: txiang [at] cqu [dot] edu [dot] cn
   biography: Tao Xiang received the B.Eng., M.S. and Ph.D. degrees in computer science from Chongqing University, China, in 2003, 2005, and 2008, respectively. He is currently a Professor of the College of Computer Science at Chongqing University. Dr. Xiang’s research interests include multimedia security, cloud security, data privacy and cryptography. He has published over 100 papers on international journals and conferences. He also served as a referee for numerous international journals and conferences.
+  position: director
 
 - name: Ning Wang (王宁)
   photo: NingWang.jpg
   info: Professor
   email: nwang5 [at] cqu [dot] edu [dot] cn
   biography: Ning Wang (Member, IEEE) received the Ph.D. degree in information and communication engineering from Beijing University of Post and Telecommunication, Beijing, China, in 2017.,He was an Engineer with Huaxin Post and Telecommunications Consulting Design Company Ltd., Hangzhou, China, from 2012 to 2013. He was with the Department of Electrical and Computer Engineering, George Mason University, Fairfax, VA, USA, as a Postdoctoral Scholar from 2017 to 2020. He is currently a Professor with the College of Computer Science, Chongqing University, Chongqing, China. His current research interests are in physical layer security, machine learning, RF fingerprinting, and cyber–physical system security and privacy.
+  position: member
 
 - name: Shangwei Guo (郭尚伟)
   photo: ShangweiGuo.jpg
   info: Associate Professor
   email: swguo [at] cqu [dot] edu [dot] cn
   biography: Shangwei is an associate professor in the College of Computer Science, Chongqing University. He worked as a postdoctoral research fellow at the Database Lab, Hong Kong Baptist University from 2018 to 2019 (supervised by Prof. Jianliang XU). Before joining CQU, he worked as a research fellow at the Cyber Security Lab, School of Computer Science and Engineering, Nanyang Technological University from 2019 to 2020 (supervised by Prof. Yang LIU and Prof. Tianwei ZHANG). He obtained his PhD degree from the School of Computer Science, Chongqing University (supervised by Prof. Tao XIANG).
-  url: https://guoshangwei.github.io/
+  position: member
 
 - name: Biwen Chen (陈泌文)
   photo: BiwenChen.jpg
   info: Research Assistant Professor
   email: macrochen [at] cqu [dot] edu [dot] cn
   biography: Biwen Chen received his Ph.D. degree from School of Computer, Wuhan University in 2020. He is currently a research assistant professor of the School of Computer, Chongqing University, China. His main research interests include cryptography, information security and blockchain.
+  position: member
 
 - name: Yan Gan (淦艳)
   photo: YanGan.jpg
   info: Research Assistant Professor
   email: shiyangancq [at] cqu [dot] edu [dot] cn
   biography: Yan Gan received the Ph.D. of Computer Science in University of Electronic Science and Technology of China, Chengdu, China. He is currently a research assistant professor of the School of Computer, Chongqing University, China. His current research interests include machine learning and computer vision. He is a reviewer for several journals, such as Engineering applications of artificial intelligence, Neurocomputing.
+  position: member
+
+- name: Hangcheng Liu (刘航呈)
+  interests: Machine Learning Security
+  position: phd
+
+- name: Fei Ouyang (欧阳飞)
+  interests: Machine Learning Security
+  position: phd
+
+- name: Hao Wang (王浩)
+  interests: Machine Learning Security
+  position: master

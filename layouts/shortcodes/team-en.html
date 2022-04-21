@@ -1,25 +1,79 @@
 <div>
-{{ range .Site.Data.team_en }}
-    <div class="team-member">
-        <div class="team-member-photo">
-            <img src="/team/{{ .photo }}">
+    <h2 id="director">Director</h2>
+    {{ range .Site.Data.team_en }}
+    {{ if eq .position "director" }}
+        <div class="team-member">
+            <div class="team-member-photo">
+                <img src="/team/{{ .photo }}">
+            </div>
+            <h3 style="margin-bottom: 0px;">{{ .name }}</h3>
+            <p>
+                <i class="fas fa-user fa-fw"></i>&nbsp;{{ .info }}<br>
+                <i class="fas fa-envelope fa-fw"></i>&nbsp;{{.email}}<br>
+            </p>
+            <p></p>
+            <p><i class="fas fa-info-circle fa-fw"></i>&nbsp;{{ .biography }}</p>
         </div>
-        <h3 style="margin-bottom: 0px;">{{ .name }}</h3>
-        <p>
-            <i class="fas fa-user fa-fw"></i>&nbsp;{{ .info }}<br>
-            <i class="fas fa-envelope fa-fw"></i>&nbsp;<a href="mailto:{{.email}}">{{.email}}</a><br>
-            <i class="fas fa-link fa-fw"></i>&nbsp;<a href="{{.url}}">{{.url}}</a>
-        </p>
-        <p></p>
-        <p><i class="fas fa-info-circle fa-fw"></i>&nbsp;{{ .biography }}</p>
-    </div>
-{{ end }}
+    {{ end }}
+    {{ end }}
+
+    <h2 id="member">Member</h2>
+    {{ range .Site.Data.team_en }}
+    {{ if eq .position "member" }}
+        <div class="team-member">
+            <div class="team-member-photo">
+                <img src="/team/{{ .photo }}">
+            </div>
+            <h3 style="margin-bottom: 0px;">{{ .name }}</h3>
+            <p>
+                <i class="fas fa-user fa-fw"></i>&nbsp;{{ .info }}<br>
+                <i class="fas fa-envelope fa-fw"></i>&nbsp;{{.email}}<br>
+            </p>
+            <p></p>
+            <p><i class="fas fa-info-circle fa-fw"></i>&nbsp;{{ .biography }}</p>
+        </div>
+    {{ end }}
+    {{ end }}
+
+    <h2 id="student">Student</h2>
+    <h3 id="phd" style="margin-bottom: 0px;">PhD</h3>
+    <table>
+        <tr>
+            <th>Name</th>
+            <th>Interests</th>
+        </tr>
+        {{ range .Site.Data.team_en }}
+        {{ if eq .position "phd" }}
+        <tr>
+            <td>{{.name}}</td>
+            <td>{{.interests}}</td>
+        </tr>
+        {{ end }}
+        {{ end }}
+    </table>
+    
+
+    <h3 id="master" style="margin-bottom: 0px;">Master</h3>
+    <table>
+        <tr>
+            <th>Name</th>
+            <th>Interests</th>
+        </tr>
+        {{ range .Site.Data.team_en }}
+        {{ if eq .position "master" }}
+        <tr>
+            <td>{{.name}}</td>
+            <td>{{.interests}}</td>
+        </tr>
+        {{ end }}
+        {{ end }}
+    </table>
 </div>
 
 <style>
     .team-member-photo {
-        width: 100px;
-        height: 100px;
+        width: 75px;
+        height: 75px;
         display: flex;
         /* border-radius: 50%; */
         align-items: center;
