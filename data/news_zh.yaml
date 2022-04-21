@@ -1,3 +1,5 @@
-- title: 我们的实验室首页正式发布了。
+- title: 我们的实验室首页正式发布了
   date: 2022年4月
   icon: 📢
+  detail: 该网站采用<a href="https://gohugo.io/">Hugo</a>框架构建，并在<a href="https://pages.github.com/">GitHub Pages</a>部署，网站整体框架从<a href="https://github.com/dillonzq/LoveIt">LoveIt</a>模板修改而来。
+  author: Admin
