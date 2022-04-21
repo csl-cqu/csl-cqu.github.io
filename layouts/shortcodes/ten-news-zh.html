@@ -2,13 +2,7 @@
     {{ range $index, $element := .Site.Data.news_zh }}
     <div>
         {{ if le $index 9}}
-            {{ if eq $element.type "congratulations" }}
-            🎉
-            {{ end }}
-            {{ if eq $element.type "announcement" }}
-            📢
-            {{ end }}
-            {{ $element.date }}: {{ $element.title | safeHTML }}
+        {{ .icon }} {{ .date }}: {{ .title | safeHTML }}
         {{ end }}
     </div>
     {{ end }}

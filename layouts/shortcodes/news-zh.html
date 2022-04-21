@@ -1,13 +1,7 @@
 <div>
     {{ range .Site.Data.news_zh }}
     <div>
-        {{ if eq .type "congratulations" }}
-        🎉
-        {{ end }}
-        {{ if eq .type "announcement" }}
-        📢
-        {{ end }}
-        {{ .date }}: {{ .title | safeHTML }}
+        {{ .icon }} {{ .date }}: {{ .title | safeHTML }}
     </div>
     {{ end }}
 </div>
