@@ -1,0 +1,25 @@
+- title: "SecEDMO: Enabling Efficient Data Mining with Strong Privacy Protection in Cloud Computing"
+  authors: Wu Jiahui, Mu Nankun, Lei Xinyu, Le Junqing, Zhang Di, and Liao Xiaofeng
+  publication: IEEE Transactions on Cloud Computing （TCC）
+  link: https://doi.org/10.1109/TCC.2019.2932065
+  ccf_rank: CCF C
+
+- title: "PEID: A Perceptually Encrypted Image Database for Visual Security Evaluation"
+  authors: Shangwei Guo, Tao Xiang, Xiaoguo Li, Ying Yang
+  publication: IEEE Transactions on Information Forensics and Security
+  ccf_rank: A
+
+- title: "ImageProof: Enabling authentication for large-scale image retrieval"
+  authors: Shangwei Guo, Jianliang Xu, Ce Zhang, Cheng Xu, Tao Xiang
+  publication: IEEE International Conference on Data Engineering (ICDE)
+  ccf_rank: A
+
+- title: Visual Security Evaluation of Perceptually Encrypted Images Based on Image Importance
+  authors: Tao Xiang, Ying Yang, Hangcheng Liu, Shangwei Guo
+  publication: IEEE Transactions on Circuits and Systems for Video Technology*,  **CCF Rank B**
+  ccf_rank: B
+
+- title: "Blind Night-Time Image Quality Assessment: Subjective and Objective Approaches"
+  authors: Tao Xiang, Ying Yang, Shangwei Guo
+  publication: IEEE Transactions on Multimedia
+  ccf_rank: B

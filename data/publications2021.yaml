@@ -4,8 +4,79 @@
   link: https://dl.acm.org/doi/abs/10.1145/3474085.3475517
   ccf_rank: A
 
+- title: Efficient Top-k Matching for Publish/Subscribe Ride Hitching
+  authors: Yafei Li, Hongyan Gu, Rui Chen, Jianliang Xu, Shangwei Guo, Junxiao Xue, Mingliang Xu
+  publication: IEEE Transactions on Knowledge and Data Engineering
+  ccf_rank: A
+
+- title: Byzantine-resilient Decentralized Stochastic Gradient Descent
+  authors: Shangwei Guo, Tianwei Zhang, Han Yu,  Xiaofei Xie, Lei Ma, Tao Xiang, Yang Liu
+  publication: IEEE Transactions on Circuits and Systems for Video Technology
+  ccf_rank: B
+
+- title: Topology-aware Differential Privacy for Decentralized Image Classification
+  authors: Shangwei Guo, Tianwei Zhang, Guowen Xu, Han Yu, Tao Xiang, Yang Liu
+  publication: IEEE Transactions on Circuits and Systems for Video Technology
+  ccf_rank: B
+
+- title: "Fine-tuning Is Not Enough: A Simple yet Effective Watermark Removal Attack for DNN Models"
+  authors: Shangwei Guo, Tianwei Zhang, Han Qiu, Yi Zeng, Tao Xiang, Yang Liu
+  publication: International Joint Conference on Artificial Intelligence (IJCAI)
+  ccf_rank: A
+
+- title: An Efficient Preprocessing-based Approach to Mitigate Advanced Adversarial Attacks
+  authors: Han Qiu, Yi Zeng, Qinkai Zheng, Shangwei Guo, Tianwei Zhang, Hewu Li
+  publication: IEEE Transactions on Computers
+  ccf_rank: A
+
+- title: Privacy-preserving Collaborative Learning with Automatic Transformation Search
+  highlight: Oral
+  authors: Wei Gao, Shangwei Guo, Tianwei Zhang, Han Qiu, Yonggang Wen, Yang Liu
+  publication: IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+  cqu_rank: A+
+
+- title: "DeepSweep: An Evaluation Framework for Mitigating DNN Backdoor Attacks using Data Augmentation"
+  authors: Han Qiu, Yi Zeng, Shangwei Guo, Tianwei Zhang, Meikang Qiu, Bhavani Thuraisingham
+  publication: ACM ASIA Conference on Computer and Communications Security (AsiaCCS)
+  cqu_rank: A
+
+- title: "Stealing Deep Reinforcement Learning Models for Fun and Profit"
+  authors: Kangjie Chen, Shangwei Guo, Tianwei Zhang, Xiaofei Xie, Yang Liu
+  publication: ACM ASIA Conference on Computer and Communications Security (AsiaCCS)
+  cqu_rank: A
+
+- title: Temporal Watermarks for Deep Reinforcement Learning Models
+  authors: Kangjie Chen, Shangwei Guo, Tianwei Zhang, Shuxin Li, Yang Liu
+  publication: International Conference on Autonomous Agents and Multiagent Systems (AAMAS)
+  ccf_rank: B
+
+- title: Privacy-Preserving Reverse Nearest Neighbor Query over Encrypted Spatial Data
+  authors: Xiaoguo Li, Tao Xiang,  Shangwei Guo, Hongwei Li, Yi Mu
+  publication: IEEE Transactions on Services Computing
+  ccf_rank: B
+
 - title: "Achieving Privacy-Preserving Online Diagnosis with Outsourced SVM in Internet of Medical Things Environment"
   authors: Bin Xie, Tao Xiang, Xiaofeng Liao, Jiahui Wu
   link: https://ieeexplore.ieee.org/abstract/document/9573266
   publication: IEEE Transactions on Dependable and Secure Computing (TDSC)
   ccf_rank: A
+
+- title: "Federated Continuous Learning with Broad Network Architecture"
+  authors: Le Junqing, Lei Xinyu, Mu Nankun, Zhang Hengrun, Zeng Kai, Liao Xiaofeng.
+  publication: IEEE Transactions on Cybernetics
+  link: https://doi.org/10.1109/TCYB.2021.3090260
+  ccf_rank: B
+
+- title: "Secure and Efficient Data Deduplication in JointCloud Storage"
+  authors: Zhang Di, Le Junqing, Mu Nankun, Wu Jiahui, Liao Xiaofeng.
+  publication: IEEE Transactions on Cloud Computing (TCC)
+  link: https://doi.org/10.1109/TCC.2021.3081702
+  ccf_rank: C
+
+- title: "GALA: Greedy ComputAtion for Linear Algebra in Privacy-Preserved Neural Networks"
+  authors: Qiao Zhang, Chunsheng Xin, Hongyi Wu
+  publication: Network and Distributed System Security (NDSS) Symposium
+  link: https://www.ndss-symposium.org/wp-content/uploads/ndss2021_5C-3_24351_paper.pdf
+  cqu_rank: A+
+
+

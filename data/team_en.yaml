@@ -1,5 +1,5 @@
 - name: Xiaofeng Liao (廖晓峰)
-  photo: XiaofengLiao.jpeg
+  photo: XiaofengLiao.jpg
   info: Professor, IEEE Fellow
   email: xfliao [at] cqu [dot] edu [dot] cn
   biography: Xiaofeng Liao received the B.S. and M.S. degrees in mathematics from Sichuan University, Chengdu, China, in 1986 and 1992, respectively, and the Ph.D. degree in circuits and systems from the University of Electronic Science and Technology of China, Chengdu, in 1997. From 1999 to 2012, he was a Professor with Chongqing University, Chongqing, China. From July 2012 to July 2018, he was a Professor and the Dean of the College of Electronic and Information Engineering, Southwest University, Chongqing. He is currently a Professor and the Dean of the College of Computer Science, Chongqing University. He is also a Yangtze River Scholar of the Ministry of Education of China, Beijing, China. From November 1997 to April 1998, he was a Research Associate with the Chinese University of Hong Kong, Hong Kong. From October 1999 to October 2000, he was a Research Associate with the City University of Hong Kong, Hong Kong. From March 2001 to June 2001 and March 2002 to June 2002, he was a Senior Research Associate at the City University of Hong Kong. From March 2006 to April 2007, he was a Research Fellow at the City University of Hong Kong. He holds five patents, and published four books and over 300 international journal and conference papers. His current research interests include optimization and control, machine learning, privacy protection, neural networks, and bifurcation and chaos. Prof. Liao currently serves as an Associate Editor of the IEEE Transactions on Cybernetics and IEEE Transactions on Neural Networks and Learning Systems
@@ -39,6 +39,28 @@
   email: shiyangancq [at] cqu [dot] edu [dot] cn
   biography: Yan Gan received the Ph.D. of Computer Science in University of Electronic Science and Technology of China, Chengdu, China. He is currently a research assistant professor of the School of Computer, Chongqing University, China. His current research interests include machine learning and computer vision. He is a reviewer for several journals, such as Engineering applications of artificial intelligence, Neurocomputing.
   position: member
+
+- name: Qiao Zhang (张巧)
+  photo: QiaoZhang.jpg
+  info: Research Assistant Professor
+  email: qiaozhang [AT] cqu [DOT] edu [DOT] cn
+  biography: Qiao Zhang is a research assistant professor at College of Computer Science, Chongqing University, China. Before that, She obtained her Ph.D. degree (advised by Prof. Hongyi Wu) at Department of Electrical and Computer Engineering in Old Dominion University (Class 2021Fall). Her current research is about the privacy-preserved machine learning and she has published papers such as in NDSS, AsiaCCS, IJCAI, IEEE IoT Journal, IEEE TNSE.
+  position: member
+
+- name: Junqing Le (乐俊青)
+  photo: JunqingLe.jpg
+  info: Research Assistant Professor
+  email: junqingle [at] cqu [dot] edu [dot] cn
+  biography: received the B.S. degree in software engineering from Southwest Jiaotong University, Chengdu, china, in 2014, the M.S. degree in signal and information processing and the Ph.D. degree in intelligent computing and information Processing from Southwest University, Chongqing, China, in 2017 and 2021, respectively. From May 2019 to May 2021, he was a visiting scholar in George Mason University. At present, he is a research assistant professor with Collage of Computer Science, Chongqing University. His research interests include federated learning security and privacy, privacy of machine learning, differential privacy, and etc.
+  position: member
+
+- name: Di Zhang (张迪)
+  photo: DiZhang.jpg
+  info: Research Assistant Professor
+  email: dizhang [at] cqu [dot] edu [dot] cn
+  biography: Di Zhang received the Ph.D. degree in Computational Intelligence and Information Processing from Southwest University, Chongqing, China, in 2021. From 2018 to 2020, she was a visiting Ph.D. student with the Department of Computer Science, Virginia Polytechnic Institute and State University, Virginia, United States. At present, she is a research assistant professor of the Collage of Computer Science, Chongqing University, China. Her research interests include applied crypto, cloud computing security, privacy protection, and blockchain. She has published research papers in top international journals, including TCC and TSMC.
+  position: member
+
 
 - name: Hangcheng Liu (刘航呈)
   interests: Machine Learning Security

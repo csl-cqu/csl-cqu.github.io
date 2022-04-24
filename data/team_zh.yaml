@@ -1,5 +1,5 @@
 - name: 廖晓峰
-  photo: XiaofengLiao.jpeg
+  photo: XiaofengLiao.jpg
   info: 教育部“长江学者”特聘教授, 计算机学院院长，IEEE Fellow
   email: xfliao [at] cqu [dot] edu [dot] cn
   biography: 长期从事人工神经网络、动力学系统理论、混沌密码学、信息安全、隐私保护等领域的研究。先后获得教育部“长江学者”特聘教授，IEEE Fellow，新世纪百千万国家级人才，全国优秀博士后，教育部新世纪优秀人才，享受国务院政府特殊津贴的专家，重庆市“322”人才工程一层次人才，重庆市学术技术带头人。曾担任ACM重庆分会主席；现任IEEE计算智能学会重庆分会副主席；IEEE Transactions on Cybernetics、IEEE Transactions on Neural Networks and Learning Systems副编辑；30余个国际一流刊物的特邀审稿人；中国电子学会“非线性电路与混沌”专委会副主任委员；中国通信学会“混沌密码”专委会委员；重庆市“电子学会”副理事长；教育部“物联网工程专业教学研究专家组”成员；中共重庆市委组织部“信息化建设”工作专家咨询组成员。在国际重要刊物，如IEEE Transactions on Information Theory, IEEE Transactions on Computers, IEEE Transactions on Neural networks and Learning Systems, IEEE Transactions on Systems, Man and Cybernetics, IEEE Transactions on Circuits and Systems, IEEE Transactions on Automatic Control等发表论文600余篇，引用超过20000次，目前H指数为81（Google Scholar）。连续8年入选Elsevier中国计算机学科高被引学者榜单。获教育部和重庆市自然科学奖励6项、授权专利4项，编辑《混沌密码学及其应用》，《时滞动力学系统的分岔与混沌上、下册》，《非线性系统的不连续控制》专著三部。获得包括国家重点研发、国家自然科学基金面上在内的大小项目20余项，经费近2000万元。
@@ -23,7 +23,7 @@
   photo: ShangweiGuo.jpg
   info: 副教授
   email: swguo [at] cqu [dot] edu [dot] cn
-  biography: 先后在香港浸会大学数据库实验室（合作导师徐建良教授）和新加坡南洋理工大学网络安全实验室（合作导师刘杨教授和张天威教授）从事研究工作。研究方向包括（但不局限于）人工智能安全，联邦学习安全，大数据安全以及多媒体安全等。相关研究成果先后发表于ICLR, ICDE, CVPR, ACM MM, IJCAI, AsiaCCS, AAMAS等国际或领域顶级会议和TIFS, TC, TCSVT, TMM, TSC, TOSN等国际或领域顶级期刊。
+  biography: 先后在香港浸会大学数据库实验室（合作导师徐建良教授）和新加坡南洋理工大学网络安全实验室（合作导师刘杨教授和张天威教授）从事研究工作。研究方向包括（但不局限于）人工智能安全，联邦学习安全，大数据安全以及多媒体安全等。先后主持国家自然科学基金联合重点项目课题、青年科学基金，重庆市面上等项目，相关研究成果先后发表于ICLR, ICDE, CVPR, ACM MM, IJCAI, AsiaCCS, AAMAS等国际或领域顶级会议和TIFS, TC, TCSVT, TMM, TSC, TOSN等国际或领域顶级期刊。
   position: member
 
 - name: 陈泌文
@@ -38,6 +38,27 @@
   info: 助理研究员
   email: shiyangancq [at] cqu [dot] edu [dot] cn
   biography: 重庆大学弘深青年教师，博士毕业于电子科技大学。研究方向包括：对抗机器学习，计算机视觉。相关研究成果先后发表于多个国际主流期刊及会议。主持中国博士后面上项目1项，主研国家重点研发计划2项，参研国家自然基金（面上或联合基金）3项，其它省部级项目2项。受邀为国际期刊Engineering Applications of Artificial Intelligence, Neurocomputing，International Journal of Pattern Recognition and Artificial Intelligence审稿人。
+  position: member
+
+- name: 张巧
+  photo: QiaoZhang.jpg
+  info: 助理研究员
+  email: qiaozhang [at] cqu [dot] edu [dot] cn
+  biography: 重庆大学弘深青年教师，博士毕业于欧道明大学(Old Dominion University)。主要研究方向为机器学习与隐私保护计算，已在NDSS、AsiaCCS、IJCAI、IEEE IoT Journal、IEEE TNSE等权威会议及期刊发表文章。
+  position: member
+
+- name: 乐俊青
+  photo: JunqingLe.jpg
+  info: 助理研究员
+  email: junqingle [at] cqu [dot] edu [dot] cn
+  biography: 重庆大学弘深青年教师，在站博士后。2014年获得西南交通大学学士学位，2017年及2021年分别获西南大学硕士与博士学位（导师：廖晓峰教授）。2019年-2021年曾为美国乔治梅森大学CSC联合培养博士（导师：Kai Zeng 教授）。研究方向包括（但不局限于）隐私保护，信息安全，分布式机器学习等。已在IEEE Transactions系列等重要国际期刊及会议发表19篇学术论文，包括IEEE TCYB, IEEE TSMC, IEEE TCC等。受邀为多个国际期刊审稿人，包括：IEEE TIFS, IEEE TII, IEEE TVT, Computers & Security等。
+  position: member
+
+- name: 张迪
+  photo: DiZhang.jpg
+  info: 助理研究员
+  email: dizhang [at] cqu [dot] edu [dot] cn
+  biography: 重庆大学弘深青年教师，助理研究员，2021年于西南大学计算智能与信息处理专业获取博士学位（导师：廖晓峰教授），2018-2020年于弗吉尼亚理工学院暨州立大学做联合培养博士生。研究方向包括应用密码学、云计算安全、隐私保护，区块链等。已在IEEE Transactions 系列等重要国际期刊发表多篇学术论文，其中以第一作者身份发表4篇，包括IEEE TCC, IEEE TSMC等。
   position: member
 
 - name: 刘航呈

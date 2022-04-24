@@ -3,4 +3,15 @@
   link: https://ieeexplore.ieee.org/document/9252951
   publication: IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
   ccf_rank: B
- 
+
+- title: "Anonymous Privacy Preservation Based on m-Signature and Fuzzy Processing for Real-Time Data Release"
+  authors: Le Junqing, Zhang Di, Mu Nankun, Liao Xiaofeng, and Yang Fan.
+  publication: "IEEE Transactions on Systems, Man, and Cybernetics: Systems"
+  link: https://doi.org/10.1109/TSMC.2018.2872902
+  ccf_rank: C
+
+- title: "An Anonymous Off-Blockchain Micropayments Scheme for Cryptocurrencies in the Real World"
+  authors: Zhang Di, Le Junqing, Mu Nankun, and Liao Xiaofeng
+  publication: "IEEE Transactions on Systems, Man, and Cybernetics: Systems"
+  link: https://doi.org/10.1109/TSMC.2018.2884289
+  ccf_rank: C

@@ -28,3 +28,8 @@
   publication: ACM Transactions on Sensor Networks
   link: https://dl.acm.org/doi/abs/10.1145/3511893
   ccf_rank: B
+
+- title: " Hunter: HE-friendly Structured Pruning for Efficient Privacy-preserving Deep Learning"
+  authors: Yifei Cai, Qiao Zhang, Rui Ning, Chunsheng Xin, Hongyi Wu
+  publication: ACM ASIA Conference on Computer and Communications Security (ASIACCS)
+  cqu_rank: A

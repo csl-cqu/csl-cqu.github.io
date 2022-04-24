@@ -1,5 +1,19 @@
-- title: 我们的实验室首页正式发布了
-  date: 2022年4月
-  icon: 📢
-  detail: 该网站采用<a href="https://gohugo.io/">Hugo</a>框架构建，并在<a href="https://pages.github.com/">GitHub Pages</a>部署，网站整体框架从<a href="https://github.com/dillonzq/LoveIt">LoveIt</a>模板修改而来。
+- title: 一篇文章被TOMM接收(<b>CCF B</b>)! 恭喜宏虹!
+  date: Apr. 2022
+  icon: 🎉
+  author: Admin
+
+- title: 一篇文章被NAACL接收(<b>CSL@CQU A</b>)!
+  date: Apr. 2022
+  icon: 🎉
+  author: Admin
+
+- title: "两篇文章被ICLR接收(一篇<b style='color: red'>spotlight</b> <b>CSL@CQU A+</b> 和一篇poster <b>CSL@CQU A</b>)!!"
+  date: Jan. 2022
+  icon: 🎉
+  author: Admin
+
+- title: "一篇文章被TOSN接收(<b>CCF B</b>)! 恭喜航呈!"
+  date: Jan. 2022
+  icon: 🎉
   author: Admin
