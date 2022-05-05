@@ -23,3 +23,16 @@
   authors: Tao Xiang, Ying Yang, Shangwei Guo
   publication: IEEE Transactions on Multimedia
   ccf_rank: B
+
+
+
+- title: "GELU-Net: A Globally Encrypted, Locally Unencrypted Deep Neural Network for Privacy-Preserved Learning"
+  authors: Qiao Zhang, Cong Wang, Hongyi Wu, Chunsheng Xin, Tran V Phuong
+  publication: International Joint Conference on Artificial Intelligence (IJCAI)
+  link: https://www.ijcai.org/proceedings/2018/0547.pdf
+  ccf_rank: A
+
+- title: "Perceptual visual security index based on edge and texture similarities"
+  authors: Tao Xiang, Shangwei Guo, Xiaoguo Li
+  publication: IEEE Transactions on Information Forensics and Security
+  ccf_rank: A

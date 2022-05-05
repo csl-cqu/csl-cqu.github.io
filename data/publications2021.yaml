@@ -4,15 +4,60 @@
   link: https://dl.acm.org/doi/abs/10.1145/3474085.3475517
   ccf_rank: A
 
+- title: "Self-Supervised Pre-training on the Target Domain for Cross-Domain Person Re-identification"
+  authors: Junyin Zhang, Yongxin Ge, Xinqian Gu, Boyu Hua, Tao Xiang
+  publication: ACM International Conference on Multimedia (ACM MM)
+  link: https://dl.acm.org/doi/abs/10.1145/3474085.3475565
+  ccf_rank: A
+
+- title: Achieving Privacy-Preserving Online Diagnosis with Outsourced SVM in Internet of Medical Things Environment
+  authors: Bin Xie, Tao Xiang, Xiaofeng Liao, Jiahui Wu
+  publication: IEEE Transactions on Dependable and Secure Computing
+  link: https://ieeexplore.ieee.org/abstract/document/9573266/
+  ccf_rank: A
+
 - title: Efficient Top-k Matching for Publish/Subscribe Ride Hitching
   authors: Yafei Li, Hongyan Gu, Rui Chen, Jianliang Xu, Shangwei Guo, Junxiao Xue, Mingliang Xu
   publication: IEEE Transactions on Knowledge and Data Engineering
   ccf_rank: A
 
+- title: Multiple-Instance Learning from Similar and Dissimilar Bags
+  authors: Lei Feng, Senlin Shu, Yuzhou Cao, Lue Tao, Hongxin Wei, Tao Xiang, Bo An, Gang Niu
+  publication: ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)
+  ccf_rank: A
+
+- title: Public Key Based Searchable Encryption with Fine-Grained Sender Permission Control
+  highlight: Best Paper
+  authors: Zhongming Wang, Biwen Chen, Tao Xiang, Lu Zhou, Hongyang Yan, Jin Li
+  publication: International Conference on Provable Security
+
 - title: Byzantine-resilient Decentralized Stochastic Gradient Descent
   authors: Shangwei Guo, Tianwei Zhang, Han Yu,  Xiaofei Xie, Lei Ma, Tao Xiang, Yang Liu
   publication: IEEE Transactions on Circuits and Systems for Video Technology
   ccf_rank: B
+
+- title: A Novel Privacy-Preserving Location-Based Services Search Scheme in Outsourced Cloud
+  authors: Dong Li, Jiahui Wu, Junqing Le, Xiaofeng Liao, Tao Xiang
+  publication: IEEE Transactions on Cloud Computing
+  ccf_rank: C
+
+- title: Joint Reinforcement Learning and Game Theory Bitrate Control Method for 360-Degree Dynamic Adaptive Streaming
+  authors: Xuekai Wei, Mingliang Zhou, Sam Kwong, Hui Yuan, Tao Xiang
+  publication: IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
+  ccf_rank: B
+
+
+- title: QOE-Based Neural Live Streaming Method with Continuous Dynamic Adaptive Video Quality Control
+  authors: Xuekai Wei, Mingliang Zhou, Sam Kwong, Hui Yuan, Tao Xiang
+  publication: IEEE International Conference on Multimedia and Expo (ICME)
+  ccf_rank: B
+
+
+- title: Teacher-Supervised Generative Adversarial Networks
+  authors: Yan Gan, Tao Xiang, Hangcheng Liu, Mao Ye, Dan Liu
+  publication: IEEE International Conference on Multimedia and Expo (ICME)
+  ccf_rank: B
+
 
 - title: Topology-aware Differential Privacy for Decentralized Image Classification
   authors: Shangwei Guo, Tianwei Zhang, Guowen Xu, Han Yu, Tao Xiang, Yang Liu
@@ -54,6 +99,7 @@
   authors: Xiaoguo Li, Tao Xiang,  Shangwei Guo, Hongwei Li, Yi Mu
   publication: IEEE Transactions on Services Computing
   ccf_rank: B
+
 
 - title: "Achieving Privacy-Preserving Online Diagnosis with Outsourced SVM in Internet of Medical Things Environment"
   authors: Bin Xie, Tao Xiang, Xiaofeng Liao, Jiahui Wu

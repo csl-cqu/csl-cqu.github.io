@@ -1,12 +1,3 @@
-
-- title: "GELU-Net: A Globally Encrypted, Locally Unencrypted Deep Neural Network for Privacy-Preserved Learning"
-  authors: Qiao Zhang, Cong Wang, Hongyi Wu, Chunsheng Xin, Tran V Phuong
-  publication: International Joint Conference on Artificial Intelligence (IJCAI)
-  link: https://www.ijcai.org/proceedings/2018/0547.pdf
-  ccf_rank: A
-
-- title: "Perceptual visual security index based on edge and texture similarities"
-  authors: Tao Xiang, Shangwei Guo, Xiaoguo Li
-  publication: IEEE Transactions on Information Forensics and Security
-  ccf_rank: A
-
+- title: "IoT Cloud Security Review: A Case Study Approach Using Emerging Consumer-oriented Applications"
+  authors: Fei Chen, Duming Luo, Tao Xiang, Ping Chen, Junfeng Fan, Hong-Linh Truong
+  publication: ACM Computing Surveys (CSUR)

@@ -15,3 +15,9 @@
   publication: "IEEE Transactions on Systems, Man, and Cybernetics: Systems"
   link: https://doi.org/10.1109/TSMC.2018.2884289
   ccf_rank: C
+
+
+- title: Convolutional neural network for visual security evaluation
+  authors: Ying Yang, Tao Xiang, Hangcheng Liu, Xiaofeng Liao
+  publication: IEEE Transactions on Circuits and Systems for Video Technology
+  ccf_rank: B
