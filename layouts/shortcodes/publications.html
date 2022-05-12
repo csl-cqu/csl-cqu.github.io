@@ -1,7 +1,7 @@
 <div>
     <h2 id="Survey">Survey</h2>
     <ul>
-        {{ range .Site.Data.publications0000 }}
+        {{ range .Site.Data.publications.survey }}
             <li>
                 <p><b><a href="{{ .link }}">{{ .title }}
                     {{ if .highlight }}
@@ -25,7 +25,7 @@
 
     <h2 id="2022">2022</h2>
     <ul>
-        {{ range .Site.Data.publications2022 }}
+        {{ range .Site.Data.publications.in2022 }}
             <li>
                 <p><b><a href="{{ .link }}">{{ .title }}
                     {{ if .highlight }}
@@ -49,7 +49,7 @@
 
     <h2 id="2021">2021</h2>
     <ul>
-        {{ range .Site.Data.publications2021 }}
+        {{ range .Site.Data.publications.in2021 }}
             <li>
                 <p><b><a href="{{ .link }}">{{ .title }}
                     {{ if .highlight }}
@@ -70,52 +70,4 @@
             </li>
         {{ end }}
     </ul>
-
-    <!-- <h2 id="2020">2020</h2>
-    <ul>
-        {{ range .Site.Data.publications2020 }}
-            <li>
-                <p><b><a href="{{ .link }}">{{ .title }}
-                    {{ if .highlight }}
-                    <span style="color: red;">
-                        ({{ .highlight }})
-                    </span>
-                    {{ end }}
-                </a></b></p>
-                <p>{{.authors}}</p>
-                <p><i>{{.publication}}</i>
-                    {{ if .ccf_rank }}
-                    , <b>CCF Rank {{.ccf_rank}}</b>
-                    {{ end }}
-                    {{ if .cqu_rank }}
-                    , <b>CSL@CQU Rank {{.cqu_rank}}</b>
-                    {{ end }}
-                </p>
-            </li>
-        {{ end }}
-    </ul>
-
-    <h2 id="before">Before</h2>
-    <ul>
-        {{ range .Site.Data.publications0000 }}
-            <li>
-                <p><b><a href="{{ .link }}">{{ .title }}
-                    {{ if .highlight }}
-                    <span style="color: red;">
-                        ({{ .highlight }})
-                    </span>
-                    {{ end }}
-                </a></b></p>
-                <p>{{.authors}}</p>
-                <p><i>{{.publication}}</i>
-                    {{ if .ccf_rank }}
-                    , <b>CCF Rank {{.ccf_rank}}</b>
-                    {{ end }}
-                    {{ if .cqu_rank }}
-                    , <b>CSL@CQU Rank {{.cqu_rank}}</b>
-                    {{ end }}
-                </p>
-            </li>
-        {{ end }}
-    </ul> -->
 </div>
