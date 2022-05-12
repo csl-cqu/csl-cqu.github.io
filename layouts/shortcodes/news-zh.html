@@ -1,19 +1,17 @@
 <div>
-    {{ range .Site.Data.news_zh }}
-        {{ if .detail }}
+    <h2 id="2022">2022</h2>
+    {{ range .Site.Data.news.zh2022 }}
         <div>
             <h3 style="margin-bottom: 10px;">{{ .icon }}&nbsp;{{ .title | safeHTML }}</h3>
             <div style="font-size: .875rem; color: #a9a9b3;">
                 <i class="fas fa-user-circle fa-fw"></i>&nbsp;{{.author}}&nbsp;<i class="far fa-calendar-alt fa-fw"></i>&nbsp;{{.date}}
             </div>
+            {{ if .detail }}
             <div style="text-align:justify">{{ .detail | safeHTML }}</div>
+            {{ else }}
+            <div style="text-align:justify">{{ .title | safeHTML }}</div>
+            {{ end }}
             <hr>
         </div>
-        {{ else }}
-        <div>
-            <h3>{{ .icon }}&nbsp;{{ .date }}:&nbsp;{{ .title | safeHTML }}</h3>
-            <hr>
-        </div>
-        {{ end }}
     {{ end }}
 </div>

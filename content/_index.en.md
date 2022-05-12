@@ -16,7 +16,7 @@ We are located at Chongqing University, which is a comprehensive national univer
 
 # News
 
-{{< ten-news-en >}}
+{{< homepage-news-en >}}
 
 # Quick Links
 

@@ -1,5 +1,5 @@
 <div>
-    {{ range $index, $element := .Site.Data.news_zh }}
+    {{ range $index, $element := .Site.Data.news.homepage.zh }}
     <div>
         {{ if le $index 9}}
         {{ .icon }} {{ .date }}: {{ .title | safeHTML }}
@@ -9,4 +9,5 @@
     <div style="float: right;">
         <a href="/zh-cn/news/">查看更多&nbsp;<i class="fas fa-angle-double-right fa-fw"></i></a>
     </div>
+    <br />
 </div>

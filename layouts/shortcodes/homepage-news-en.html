@@ -1,5 +1,5 @@
 <div>
-    {{ range $index, $element := .Site.Data.news_en }}
+    {{ range $index, $element := .Site.Data.news.homepage.en }}
     <div>
         {{ if le $index 9}}
         {{ .icon }} {{ .date }}: {{ .title | safeHTML }}
@@ -9,4 +9,5 @@
     <div style="float: right;">
         <a href="/news">More&nbsp;<i class="fas fa-angle-double-right fa-fw"></i></a>
     </div>
+    <br />
 </div>

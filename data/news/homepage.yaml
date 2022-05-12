@@ -1,0 +1,35 @@
+# 英文主页展示的新闻
+en:
+  - title: One paper accepted by TOMM (<b>CCF B</b>)! Congrats to Honghong!
+    date: 2022-4
+    icon: 🎉
+
+  - title: One paper accepted by NAACL (<b>CSL@CQU A</b>)!
+    date: 2022-4
+    icon: 🎉
+
+  - title: "Two papers accepted by ICLR (one <b style='color: red'>spotlight</b> <b>CSL@CQU A+</b> and one poster <b>CSL@CQU A</b>)!"
+    date: 2022-1
+    icon: 🎉
+
+  - title: "One papers accepted by TOSN  (<b>CCF B</b>)! Congrats to Hangcheng!"
+    date: 2022-1
+    icon: 🎉
+
+# 中文主页展示的新闻
+zh:
+  - title: 一篇文章被TOMM接收(<b>CCF B</b>)! 恭喜宏虹!
+    date: 2022-4
+    icon: 🎉
+
+  - title: 一篇文章被NAACL接收(<b>CSL@CQU A</b>)!
+    date: 2022-4
+    icon: 🎉
+
+  - title: "两篇文章被ICLR接收(一篇<b style='color: red'>spotlight</b> <b>CSL@CQU A+</b> 和一篇poster <b>CSL@CQU A</b>)!!"
+    date: 2022-1
+    icon: 🎉
+
+  - title: "一篇文章被TOSN接收(<b>CCF B</b>)! 恭喜航呈!"
+    date: 2022-1
+    icon: 🎉

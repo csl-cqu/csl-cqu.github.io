@@ -10,7 +10,7 @@
 
 # 新闻
 
-{{< ten-news-zh >}}
+{{< homepage-news-zh >}}
 
 # 快速访问
 
