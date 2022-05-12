@@ -1,4 +1,4 @@
 # Publications
 
 
-{{< publications-en >}}
+{{< publications >}}
