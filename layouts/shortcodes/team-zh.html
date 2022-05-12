@@ -41,7 +41,7 @@
             <th>研究兴趣</th>
         </tr>
         {{ range .Site.Data.team_zh }}
-        {{ if eq .position "phd" }}
+        {{ if eq .position "Ph.D." }}
         <tr>
             <td>{{.name}}</td>
             <td>{{.interests}}</td>
@@ -58,7 +58,7 @@
             <th>研究兴趣</th>
         </tr>
         {{ range .Site.Data.team_zh }}
-        {{ if eq .position "master" }}
+        {{ if eq .position "Master" }}
         <tr>
             <td>{{.name}}</td>
             <td>{{.interests}}</td>

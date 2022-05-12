@@ -34,14 +34,14 @@
     {{ end }}
 
     <h2 id="student">Student</h2>
-    <h3 id="phd" style="margin-bottom: 0px;">PhD</h3>
+    <h3 id="phd" style="margin-bottom: 0px;">Ph.D.</h3>
     <table>
         <tr>
             <th>Name</th>
             <th>Interests</th>
         </tr>
         {{ range .Site.Data.team_en }}
-        {{ if eq .position "phd" }}
+        {{ if eq .position "Ph.D." }}
         <tr>
             <td>{{.name}}</td>
             <td>{{.interests}}</td>
@@ -58,7 +58,7 @@
             <th>Interests</th>
         </tr>
         {{ range .Site.Data.team_en }}
-        {{ if eq .position "master" }}
+        {{ if eq .position "Master" }}
         <tr>
             <td>{{.name}}</td>
             <td>{{.interests}}</td>
