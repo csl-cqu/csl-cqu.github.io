@@ -62,14 +62,45 @@
   position: member
 
 - name: 刘航呈
-  interests: 机器学习安全
+  interests: 人工智能安全, 多媒体安全
+  position: Ph.D.
+
+- name: 潘虹阳
+  interests: 多媒体安全
   position: Ph.D.
 
 - name: 欧阳飞
-  interests: 机器学习安全
+  interests: 人工智能安全, 自然语言处理安全
   position: Ph.D.
 
+- name: 王中明
+  interests: 应用密码学, 大数据安全与隐私保护
+  position: Ph.D.
+
+- name: 吕潇
+  interests: 多媒体安全
+  position: Ph.D.
+
+- name: 曾梽芮
+  interests: 人工智能安全, 自然语言处理安全
+  position: Master
+
+- name: 李涵
+  interests: 多媒体安全, 人工智能安全
+  position: Master
+
+- name: 秦贞
+  interests: 人工智能安全
+  position: Master
+
+- name: 张旭
+  interests: 人工智能安全
+  position: Master
+
+- name: 谢春龙
+  interests: 人工智能安全, 自然语言处理安全
+  position: Master
 
 - name: 王浩
-  interests: 机器学习安全
+  interests: 人工智能安全
   position: Master
