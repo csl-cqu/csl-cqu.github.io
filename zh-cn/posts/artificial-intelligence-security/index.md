@@ -26,14 +26,41 @@ May. 2022: One paper accepted by TBD (**CCF B**)! Congrats to Biwen and Honghong
 
   *International Conference on Learning Representations (ICLR)*, **CSL@CQU Rank A+**
 
-
-
 * **[EGM: An Efficient Generative Model for Unrestricted Adversarial Examples](https://dl.acm.org/doi/abs/10.1145/3511893)**
 
   Tao Xiang, Hangcheng Liu, Shangwei Guo, Yan Gan, Xiaofeng Liao
 
   *ACM Transactions on Sensor Networks*, **CCF Rank B**
 
+* **[An Efficient Preprocessing-based Approach to Mitigate Advanced Adversarial Attacks](https://doi.org/10.1109/TC.2021.3076826)**
+
+  Han Qiu, Yi Zeng, Qinkai Zheng, Shangwei Guo, Tianwei Zhang, Hewu Li
+
+  *IEEE Transactions on Computers*,  **CCF Rank A**
+
+* **[Fine-tuning Is Not Enough: A Simple yet Effective Watermark Removal Attack for DNN Models](https://arxiv.org/abs/2009.08697)**
+
+  Shangwei Guo, Tianwei Zhang, Han Qiu, Yi Zeng, Tao Xiang, Yang Liu
+
+  *International Joint Conference on Artificial Intelligence (IJCAI)*,  **CCF Rank A**
+
+* **[DeepSweep: An Evaluation Framework for Mitigating DNN Backdoor Attacks using Data Augmentation](https://arxiv.org/abs/2012.07006)** [[code](https://github.com/YiZeng623/DeepSweep)]
+
+  Han Qiu, Yi Zeng, Shangwei Guo, Tianwei Zhang, Meikang Qiu, Bhavani Thuraisingham
+
+  *ACM ASIA Conference on Computer and Communications Security (AsiaCCS)*, **CSL@CQU Rank A**
+
+* **[Stealing Deep Reinforcement Learning Models for Fun and Profit](https://arxiv.org/abs/2006.05032)**
+
+  Kangjie Chen, Shangwei Guo, Tianwei Zhang, Xiaofei Xie, Yang Liu
+
+  *ACM ASIA Conference on Computer and Communications Security (AsiaCCS)*, **CSL@CQU Rank A**
+
+* **[Temporal Watermarks for Deep Reinforcement Learning Models](https://personal.ntu.edu.sg/tianwei.zhang/paper/aamas2021.pdf)**
+
+  Kangjie Chen, Shangwei Guo, Tianwei Zhang, Shuxin Li, Yang Liu
+
+  *International Conference on Autonomous Agents and Multiagent Systems (AAMAS)*,  **CCF Rank B**
 ## AI Security in Distributed Systems
 
 * **ESB-FL: Efficient and Secure Blockchain-Based Federated Learning with Fair Payment**
@@ -47,6 +74,25 @@ May. 2022: One paper accepted by TBD (**CCF B**)! Congrats to Biwen and Honghong
   Tao Xiang, Honghong Zeng, Biwen Chen, Shangwei Guo
 
   ACM Transactions on Multimedia Computing Communications and Applications **CCF Rank B**
+
+* **[Byzantine-resilient Decentralized Stochastic Gradient Descent](https://arxiv.org/abs/2002.08569)**
+
+  Shangwei Guo, Tianwei Zhang, Han Yu,  Xiaofei Xie, Lei Ma, Tao Xiang, Yang Liu
+
+  *IEEE Transactions on Circuits and Systems for Video Technology*,  **CCF Rank B**
+
+* **[Topology-aware Differential Privacy for Decentralized Image Classification](https://arxiv.org/abs/2006.07817)**
+
+  Shangwei Guo, Tianwei Zhang, Guowen Xu, Han Yu, Tao Xiang, Yang Liu
+
+  *IEEE Transactions on Circuits and Systems for Video Technology*,  **CCF Rank B**
+
+* **[Privacy-preserving Collaborative Learning with Automatic Transformation Search](https://arxiv.org/abs/2011.12505)<font  color=red > (Oral)</font>** [[code](https://github.com/gaow0007/ATSPrivacy)]
+
+  Wei Gao, Shangwei Guo, Tianwei Zhang, Han Qiu, Yonggang Wen, Yang Liu
+
+  *IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*,  **CCF Rank A**
+
 ## NLP Security
 * **[Triggerless Backdoor Attack for NLP Tasks with Clean Labels](https://arxiv.org/abs/2112.10183)**
 
