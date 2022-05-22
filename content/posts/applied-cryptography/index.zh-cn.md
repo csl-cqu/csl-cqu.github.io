@@ -2,7 +2,7 @@
 title: "应用密码学"
 date: 2022-05-12T09:40:28+08:00
 draft: false
-author: "Admin"
+author: "Biwen"
 tags: ["Applied Cryptography"]
 
 lightgallery: true

@@ -2,7 +2,7 @@
 title: "大数据安全与隐私保护"
 date: 2022-05-12T09:40:28+08:00
 draft: false
-author: "Admin"
+author: "Shangwei"
 tags: ["Big Data Security", "Privacy Protection"]
 
 lightgallery: true
