@@ -63,11 +63,23 @@
 
 
 - name: Hangcheng Liu (刘航呈)
-  interests: Machine Learning Security
+  interests: Machine Learning Security, Multimedia Security
+  position: Ph.D.
+
+- name: Hongyang Pan (潘虹阳)
+  interests: Multimedia Security
   position: Ph.D.
 
 - name: Fei Ouyang (欧阳飞)
-  interests: Machine Learning Security
+  interests: Machine Learning Security, NLP Security
+  position: Ph.D.
+
+- name: Zhongming Wang (王中明)
+  interests: Applied Cryptography, Big data Security and Privacy
+  position: Ph.D.
+
+- name: Xiao Lyu (吕潇)
+  interests: Multimedia Security
   position: Ph.D.
 
 - name: Hao Wang (王浩)

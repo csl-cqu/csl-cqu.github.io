@@ -2,10 +2,13 @@
   authors: Biwen Chen, Honghong Zeng, Tao Xiang, Shangwei Guo, Tianwei Zhang, Yang Liu
   publication: IEEE Transactions on Big Data
 
+- title: "C-Wall: Conflict-Resistance in Privacy-Preserving Cloud Storage"
+  authors: Xiaoguo Li, Tao Xiang, Yi Mu, Fuchun Guo, Zhongyuan Yao
+  publication: IEEE Transactions on Cloud Computing
+
 - title: "BMIF: Privacy-Preserving Blockchain-Based Medical Image Fusion"
   authors: Tao Xiang, Honghong Zeng, Biwen Chen, Shangwei Guo
   publication: ACM Transactions on Multimedia Computing Communications and Applications
-  link: #
   ccf_rank: B
 
 - title: Triggerless Backdoor Attack for NLP Tasks with Clean Labels
