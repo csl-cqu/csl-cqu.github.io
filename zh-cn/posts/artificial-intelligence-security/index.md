@@ -12,9 +12,11 @@ May. 2022: One paper accepted by TBD (**CCF B**)! Congrats to Biwen and Honghong
 
 
 ## Grants
-- [2022 - 2024] National Natural Science Foundation of China, Youth Science Foundation Project, Research on Byzantine Fault Tolerance of Decentralized Federated Learning Based on System Features, 62102052
-
-
+- 国家自然科学基金青年基金项目：基于系统特征的去中心化联邦学习拜占庭容错研究，2022年-2024年，62102052
+- 国家自然科学基金青年基金项目，面向可迁移的跨模态对抗样本生成，2022年-2024年，62106026
+- 重庆市自然科学基金面上项目：面向去中心化联邦学习的拜占庭攻击与防御研究，2021年10月-2023年9月，cstc2021jcyj-msxmX0744
+- 重庆市自然科学基金面上项目，基于对抗学习的小样本图像生成方法，2021年-2024年，cstc2021jcyj-msxmX0273
+- 中国博士后科学基金面上项目，面向小样本的高质量可迁移对抗样本生成方法研究，2020年-2023年，2020M683243
 
 ## AI Security
 
