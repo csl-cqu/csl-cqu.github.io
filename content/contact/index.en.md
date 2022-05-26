@@ -6,4 +6,6 @@ lightgallery: true
 ---
 
 ## Location
-Room 1502, Master Teaching Building 
+Room 1502, Master Teaching Building
+
+![Location](./map.jpg)
