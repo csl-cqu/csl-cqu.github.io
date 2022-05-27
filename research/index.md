@@ -1,17 +1,13 @@
 # Research
 
 
-Our team is mainly committed to cutting-edge research in information security, including: cryptography applications, privacy protection, blockchain, artificial intelligence security, big data security, cloud computing security, multimedia security, computer vision and so on. Our goal is to solve potential problems in the field of artificial intelligence and traditional computer security in the context of the rapid development of computer technology in the new environment of the 21st century.
-
-Our team hope to ensure privacy information at the same time, actively explore the new direction of the development of the era of big data, trying to solve security faced by machine learning under the wave of new problems, and hope to be able to put forward new theory, to promote the development of in the computer field is then mature technology applied to information security in all areas of life, in turn, to promote the development of society and progress.
-
-We have published many outstanding achievements in high-level academic conferences and journals at home and abroad. At the same time, our team also has exchanges and cooperation with Chinese Academy of Sciences, Huawei, ZTE, Datang Telecom and other units. The research group has sufficient funds, and the research team regularly organizes academic and outdoor activities. It not only provides the international leading scientific research environment, but also creates a good living atmosphere for students. Our research group has close cooperation with overseas first-class universities such as [Hong Kong Baptist University](https://www.comp.hkbu.edu.hk/v1/), [Nanyang Technological University](https://www.ntu.edu.sg/search-results?q=Computer%20Science&searchCat=all&contents=all&page=1), [CIFAR Research Institute](https://cifar.ca/), [Kyushu University](https://www.kyushu-u.ac.jp/en/), [George Mason University](https://www2.gmu.edu/), [Virginia Tech University](https://vt.edu/), and [National University of Singapore](https://www.nus.edu.sg/).
+Our team is mainly committed to cutting-edge research in information security, including: applied cryptography, artificial intelligence security, big data security and privacy, multimedia security, and network and hardware security. We have published many outstanding achievements in top-tier academic conferences and journals. The research group has sufficient funds and regularly organizes academic and outdoor activities. It not only provides the international leading scientific research environment, but also creates a good living atmosphere for students. Our research group has close cooperation with Chinese Academy of Sciences, Huawei, ZTE, Datang Telecom and overseas universities such as [Nanyang Technological University](https://www.ntu.edu.sg/search-results?q=Computer%20Science&searchCat=all&contents=all&page=1), [Hong Kong Baptist University](https://www.comp.hkbu.edu.hk/v1/),  [CIFAR Research Institute](https://cifar.ca/), [Kyushu University](https://www.kyushu-u.ac.jp/en/), [George Mason University](https://www2.gmu.edu/), [Virginia Tech University](https://vt.edu/), and [National University of Singapore](https://www.nus.edu.sg/).
 
 Here are some themes and techniques that we currently work on:
 
 ## Applied Cryptography
 
-![Privacy Protection](./privacy_protection.png)
+<!-- ![Privacy Protection](./privacy_protection.png) -->
 
 Data privacy has been called “the most important issue in the next decade,” and has taken center stage thanks to legislation like the European Union’s General Data Protection Regulation (GDPR) and the California Consumer Privacy Act (CCPA). Researchers are scrambling to keep up with the requirements. In particular, “Privacy by Design” is integral to the GDPR and will likely only gain in popularity this decade. When using privacy preserving techniques, legislation suddenly becomes less daunting, as does ensuring data security which is central to maintaining user trust.
 
@@ -20,13 +16,11 @@ Data privacy is a central issue to training and testing AI models, especially on
 <div style="text-align: right;">
 <a href="/zh-cn/posts/applied-cryptography/">Read More <i class="fas fa-angle-double-right fa-fw"></i></a>
 </div>
+
 ## Artificial Intelligence Security
 
-![Artificial Intelligence Security](./artificial_intelligence_security.png)
-
-Industrial intelligence can be divided into three stages: weak artificial intelligence, strong artificial intelligence and super artificial intelligence. Weak artificial intelligence is good at simulating and extending human intelligence in specific fields and within limited rules. Strong AI has consciousness, self-awareness and innovative thinking, and can think, plan, solve problems, think abstractedly, understand complex concepts, quickly learn and learn from experience, and other human-level intelligence work; Superartificial intelligence (AI) is a machine intelligence that vastly exceeds human intelligence in all fields.
-
-The security connotation of ARTIFICIAL intelligence includes: (1) reduce the security risks brought by the immaturity and malicious application of artificial intelligence to cyberspace and national society; (2) Promote the deep application of ARTIFICIAL intelligence in the field of network security and public security; (3) Build an ARTIFICIAL intelligence safety management system to ensure the safe and steady development of artificial intelligence.
+<!-- ![Artificial Intelligence Security](./artificial_intelligence_security.png) -->
+The past several years have witnessed the rapid development of Deep Learning technology. Various DL models today are widely adopted in many scenarios, e.g., image classification, speech recognition, language processing, robotics control. These applications significantly enhance the quality of life. However, new security threats are introduced to DNN models including backdoor attacks, adversarial attacks, model extraction attacks, privacy inference attacks, etc. It is critical to protect these DNN models against existing or potential integrity and privacy attacks, especially in safety-critical fields such as autonomous driving and smart medical care. Our team aims to promote the academic research and industrial practice of artificial intelligence security, and explore new theories, new methods and new techniques for artificial intelligence security and privacy protection.
 
 <div style="text-align: right;">
 <a href="/zh-cn/posts/artificial-intelligence-security/">Read More <i class="fas fa-angle-double-right fa-fw"></i></a>
@@ -43,7 +37,7 @@ With the development of mobile Internet and cloud services, the network boundary
 </div>
 ## Multimedia Security
 
-![Multimedia Security](./multimedia_security.png)
+<!-- ![Multimedia Security](./multimedia_security.png) -->
 
 Multimedia combines one or different content forms such as text, audio, images, animations, or video into a single interactive presentation.  Multimedia data is characterized by a large amount of information, strong correlation, and high redundancy, resulting in the limitations of high computational complexity and high power consumption in security solutions. Our team aims to deepen the academic research on multimedia information security and improve the reliable security guarantee of its production, transmission, distribution, and application.
 
