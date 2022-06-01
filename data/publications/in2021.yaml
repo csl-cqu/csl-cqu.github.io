@@ -125,4 +125,9 @@
   link: https://www.ndss-symposium.org/wp-content/uploads/ndss2021_5C-3_24351_paper.pdf
   cqu_rank: A+
 
-
+- title: "Exploiting Beam Features for Spoofing Attack Detection in mmWave 60-GHz IEEE 802.11ad Networks"
+  authors: Ning Wang, Long Jiao, Pu Wang, Weiwei Li, Kai Zeng
+  publication: IEEE Transactions on Wireless Communications(TWC)
+  link: https://ieeexplore.ieee.org/document/9321212
+  ccf_rank: B
+  
