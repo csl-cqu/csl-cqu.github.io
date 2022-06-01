@@ -136,3 +136,11 @@
   publication: IEEE Transactions on Information Forensics and Security
   link: https://ieeexplore.ieee.org/document/9171328
   ccf_rank: A
+
+- title: "Hypergraph-based Adaptive Minimum Delay Data Aggregation Scheduling in Wireless Powered IoT"
+  authors: Xiaolong Jiao, Wei Lou, Songtao Guo, Ning Wang, Chao Chen and Kai Liu
+  publication: IEEE Internet of Things Journal
+  
+- title: "Online Learning-Based Defense Against Jamming Attacks in Multichannel Wireless CPS"
+  authors: Amir Alipour-Franid, Monireh Dabaghchian, Ning Wang, Long Jiao and Kai Zeng
+  publication: IEEE Internet of Things Journal
