@@ -24,8 +24,6 @@
   publication: IEEE Transactions on Multimedia
   ccf_rank: B
 
-
-
 - title: "GELU-Net: A Globally Encrypted, Locally Unencrypted Deep Neural Network for Privacy-Preserved Learning"
   authors: Qiao Zhang, Cong Wang, Hongyi Wu, Chunsheng Xin, Tran V Phuong
   publication: International Joint Conference on Artificial Intelligence (IJCAI)
@@ -36,3 +34,23 @@
   authors: Tao Xiang, Shangwei Guo, Xiaoguo Li
   publication: IEEE Transactions on Information Forensics and Security
   ccf_rank: A
+  
+- title: "Physical-Layer Security of 5G Wireless Networks for IoT: Challenges and Opportunities"
+  authors: Ning Wang, Pu Wang, Amir Alipour-Fanid, Long Jiao, Kai Zeng
+  publication: IEEE Internet of Things Journal
+  link: https://doi.org/10.1109/JIOT.2019.2927379
+  
+- title: "Physical Layer Key Generation in 5G Wireless Networks"
+  authors: Long Jiao, Ning Wang, Pu Wang, Amir Alipour-Fanid, Jie Tang, Kai Zeng
+  publication: IEEE Communications Magazine
+  
+- title: "Optimal Resoursce Allocation for Secure Multi-User Wireless Powered Backscatter Communication with Artificial Noise"
+  authors: Pu Wang, Ning Wang, Monierh Dabaghchian, Kai Zeng, and Zheng Yan
+  publication: IEEE INFOCOM 2019-IEEE Conference on International Conference on Computer Communications
+  ccf_rank: A
+  
+- title: "Machine Learning-Based Delay-Aware UAV Detection and Operation Mode Identification Over Encrypted Wi-Fi Traffic"
+  authors: Amir Alipour-Fanid, Monireh Dabaghchian, Ning Wang, Pu Wang, Liang Zhao, Kai Zeng
+  publication:  IEEE Transactions on Information Forensics and Security
+  ccf_rank: A
+  link: https://ieeexplore.ieee.org/document/8933072
