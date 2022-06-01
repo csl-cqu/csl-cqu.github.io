@@ -59,17 +59,7 @@ Multimedia combines one or different content forms such as text, audio, images, 
 
 ## Network and Hardware Security
 
-Cloud computing technology mainly faces the following five security issues: ① user identity management/access control ② network security ③ data security ④ Management security ⑤ virtualization security.
-
-User identity management is to use appropriate technologies to manage user identities. In this way, users must be authenticated each time they request to access resources, which enhances security.
-
-AccessControl refers to the means by which the system limits the ability of users to use data resources by restricting their identities and the predefined policy groups to which they belong.
-
-Network security refers to the ability to identify and eliminate unsafe factors in the network environment. Data security is mainly to encrypt data with limited means to achieve the purpose of data protection.
-
-The core of management security lies in the establishment of security management standards for cloud services, which define the boundary conditions of security management and the linkage mode between operators and users. So as to realize cloud service availability management, vulnerability management, patch management, configuration management and time emergency response, etc.
-
-Virtualization technology is the key core technology to realize cloud computing. Cloud architecture providers on the cloud computing platform using virtualization technology can provide security and isolation guarantees to their customers. Virtualization technology is the key technology to fully integrate and efficiently utilize various computing and storage resources. Virtualization is the creation of virtualized (versus real) versions of certain objects, such as operating systems, computer systems, storage devices, and network resources.
+Physical layer security refers to the use of natural physical characteristics to achieve information security, and it can also become physical endogenous security. Specifically, it can realize functions such as information encryption, password generation, and identification of legitimate users. It appears as a supplement to the upper layer security, which can greatly enhance the security performance of the entire system. The physical layer is the cornerstone of network operation and provides physical connections for data transmission. Without the physical layer, the network becomes a tree without roots and water without a source. The most basic thing is to ensure the safe operation of the physical layer of the network. Therefore, the physical layer Security is an indispensable and neglected part of the entire network security system.
 
 <div style="text-align: right;">
 <a href="/zh-cn/posts/hardware-security/">Read More <i class="fas fa-angle-double-right fa-fw"></i></a>
