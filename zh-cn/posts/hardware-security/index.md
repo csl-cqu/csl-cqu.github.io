@@ -31,4 +31,62 @@
 
   *IEEE Transactions on Information Forensics and Security*, **CCF_Rank A**
   
+* **[Machine Learning-based Spoofing Attack Detection in MmWave 60GHz IEEE 802.11ad Networks](https://ieeexplore.ieee.org/document/9155382)**
+
+  Ning Wang, Long Jiao, Pu Wang, Weiwei Li, Kai Zeng
+
+  *IEEE INFOCOM 2020 - IEEE Conference on Computer Communications*, **CCF_Rank A**
+  
+ 
+* **[Hypergraph-based Adaptive Minimum Delay Data Aggregation Scheduling in Wireless Powered IoT]**
+
+  Xiaolong Jiao, Wei Lou, Songtao Guo, Ning Wang, Chao Chen and Kai Liu
+
+  *IEEE Internet of Things Journal*
+  
+
+* **[Online Learning-Based Defense Against Jamming Attacks in Multichannel Wireless CPS]**
+
+  Amir Alipour-Franid, Monireh Dabaghchian, Ning Wang, Long Jiao and Kai Zeng
+
+  *IEEE Internet of Things Journal*
+  
+* **[Physical Layer Authentication for 5G Communications: Opportunities and Road Ahead](https://ieeexplore.ieee.org/document/9277904)**
+
+  Ning Wang, Weiwei Li, Pu Wang, Amir Alipour-Fanid, Long Jiao, Kai Zeng
+
+  *IEEE Network Magazine*
+  
+* **[Compressed-Sensing-Based Pilot Contamination Attack Detection for NOMA-IoT Communications](https://ieeexplore.ieee.org/document/9084085)**
+
+  Ning Wang, Weiwei Li, Amir Alipour-Fanid, Monireh Dabaghchian, Kai Zeng
+
+  *IEEE Internet of Things Journal*
+  
+
+* **[Pilot Contamination Attack Detection for NOMA in 5G mm-Wave Massive MIMO Networks](https://ieeexplore.ieee.org/document/8825836)**
+
+  Ning Wang, Long Jiao, Amir Alipour-Fanid, Monireh Dabaghchian, Kai Zeng
+
+  *IEEE Transactions on Information Forensics and Security*, **CCF_Rank A**
+  
+* **[Compressed-Sensing-Based Pilot Contamination Attack Detection for NOMA-IoT Communications](https://ieeexplore.ieee.org/document/9084085)**
+
+  Ning Wang, Weiwei Li, Amir Alipour-Fanid, Monireh Dabaghchian, Kai Zeng
+
+  *IEEE Internet of Things Journal*
+  
+* **[Privacy Protection and Efficient Incumbent Detection in Spectrum Sharing Based on Federated Learning](https://ieeexplore.ieee.org/document/9162291)**
+
+  Ning Wang, Junqing Le, Weiwei Li, Long Jiao, Zhihao Li, Kai Zeng
+
+  *2020 IEEE Conference on Communications and Network Security (CNS)*
+
+* **[Efficient Physical Layer Group Key Generation in 5G Wireless Networks](https://ieeexplore.ieee.org/document/9162261)**
+
+  Long Jiao, Pu Wang, Ning Wang, Songlin Chen, Amir Alipour-Fanid, Junqing Le, Kai Zeng
+
+  *2020 IEEE Conference on Communications and Network Security (CNS)*
+  
+  
 
