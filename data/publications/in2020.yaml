@@ -27,7 +27,20 @@
   publication: IEEE Network Magazine
   link: https://ieeexplore.ieee.org/document/9277904
   
-- title: "Physical Layer Authentication for 5G Communications: Opportunities and Road Ahead"
-  authors: Ning Wang, Weiwei Li, Pu Wang, Amir Alipour-Fanid, Long Jiao, Kai Zeng
-  publication: IEEE Network Magazine
-  link: https://ieeexplore.ieee.org/document/9277904
+- title: "Machine Learning-based Spoofing Attack Detection in MmWave 60GHz IEEE 802.11ad Networks"
+  authors: Ning Wang, Long Jiao, Pu Wang, Weiwei Li, Kai Zeng
+  publication: IEEE INFOCOM 2020 - IEEE Conference on Computer Communications
+  link: https://ieeexplore.ieee.org/document/9155382
+  ccf_rank: A
+  
+- title: "Compressed-Sensing-Based Pilot Contamination Attack Detection for NOMA-IoT Communications"
+  authors: Ning Wang, Weiwei Li, Amir Alipour-Fanid, Monireh Dabaghchian, Kai Zeng
+  publication:  IEEE Internet of Things Journal
+  link: https://ieeexplore.ieee.org/document/9084085
+
+- title: "Pilot Contamination Attack Detection for NOMA in 5G mm-Wave Massive MIMO Networks"
+  authors: Ning Wang, Long Jiao, Amir Alipour-Fanid, Monireh Dabaghchian, Kai Zeng
+  publication:  IEEE Transactions on Information Forensics and Security
+  link: https://ieeexplore.ieee.org/document/8825836
+  ccf_rank: A
+  
