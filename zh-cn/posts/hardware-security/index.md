@@ -19,3 +19,16 @@
 
 ## Network and Hardware Security
 
+* **[Orientation and Channel-Independent RF Fingerprinting for 5G IEEE 802.11ad Devices](https://ieeexplore.ieee.org/document/9568640)<font  color=red > (Spotlight)</font>**
+
+  Ning Wang, Weiwei Li, Long Jiao, Amir Alipour-Fanid, Tao Xiang, Kai Zeng
+
+  *IEEE Internet of Things Journal*
+  
+* **[Pilot Contamination Attack Detection for 5G MmWave Grant-Free IoT Networks](https://ieeexplore.ieee.org/document/9171328)<font  color=red > (Spotlight)</font>**
+
+  Ning Wang, Weiwei Li, Amir Alipour-Fanid, Long Jiao, Monireh Dabaghchian, Kai Zeng
+
+  *IEEE Transactions on Information Forensics and Security*, **CCF_Rank A**
+  
+
