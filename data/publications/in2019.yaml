@@ -49,3 +49,8 @@
   publication: IEEE INFOCOM 2019-IEEE Conference on International Conference on Computer Communications
   ccf_rank: A
   
+- title: "Machine Learning-Based Delay-Aware UAV Detection and Operation Mode Identification Over Encrypted Wi-Fi Traffic"
+  authors: Amir Alipour-Fanid, Monireh Dabaghchian, Ning Wang, Pu Wang, Liang Zhao, Kai Zeng
+  publication:  IEEE Transactions on Information Forensics and Security
+  ccf_rank: A
+  
