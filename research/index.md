@@ -9,9 +9,11 @@ Here are some themes and techniques that we currently work on:
 
 <!-- ![Privacy Protection](./privacy_protection.png) -->
 
-Data privacy has been called “the most important issue in the next decade,” and has taken center stage thanks to legislation like the European Union’s General Data Protection Regulation (GDPR) and the California Consumer Privacy Act (CCPA). Researchers are scrambling to keep up with the requirements. In particular, “Privacy by Design” is integral to the GDPR and will likely only gain in popularity this decade. When using privacy preserving techniques, legislation suddenly becomes less daunting, as does ensuring data security which is central to maintaining user trust.
+As the foundation of information society, cryptography has been widely used in any scenarios related to digital data (e.g., Internet, Mobile communication).  Currently, the goal of cryptography research has long been extended from the initial communication security to computational security. However, existing cryptographic schemes usually require complex computation or communication, making them difficult to deploy, thus limiting their practicality. Our team aims to design new cryptographic schemes or pragmatize existing cryptographic schemes to provide for the application and deployment of cryptographic schemes in different scenarios.
 
-Data privacy is a central issue to training and testing AI models, especially ones that train and infer on sensitive data.We are also actively exploring the direction of perfect privacy AI.
+<!-- Data privacy has been called “the most important issue in the next decade,” and has taken center stage thanks to legislation like the European Union’s General Data Protection Regulation (GDPR) and the California Consumer Privacy Act (CCPA). Researchers are scrambling to keep up with the requirements. In particular, “Privacy by Design” is integral to the GDPR and will likely only gain in popularity this decade. When using privacy preserving techniques, legislation suddenly becomes less daunting, as does ensuring data security which is central to maintaining user trust.  -->
+
+<!-- Data privacy is a central issue to training and testing AI models, especially ones that train and infer on sensitive data. We are also actively exploring the direction of perfect privacy AI.  -->
 
 <div style="text-align: right;">
 <a href="/zh-cn/posts/applied-cryptography/">Read More <i class="fas fa-angle-double-right fa-fw"></i></a>
