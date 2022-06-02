@@ -2,11 +2,13 @@
 
 
 # Introduction
-占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位占位
+Multimedia combines one or different content forms such as text, audio, images, animations, or video into a single interactive presentation.  Multimedia data is characterized by a large amount of information, strong correlation, and high redundancy, resulting in the limitations of high computational complexity and high power consumption in security solutions. Our team aims to deepen the academic research on multimedia information security and improve the reliable security guarantee of its production, transmission, distribution, and application.
 
+![Multimedia Security](./multimedia_security.png)
 
 ## News
 
+🎉 Jul. 2021: one paper accepted by ACM MM (**CCF A**)! Congrats to Ying!
 
 
 ## Grants

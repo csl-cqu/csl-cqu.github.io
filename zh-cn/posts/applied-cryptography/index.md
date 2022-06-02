@@ -5,6 +5,7 @@
 
 ## News
 
+🎉 2022.4: 我们的论文被TBD接收! 恭喜泌文和宏虹!
 
 
 ## Grants
@@ -14,19 +15,19 @@
 
 ## Design of Cryptographic Schemes
 
-- **Public key based searchable encryption with fine-grained sender permission control.<font  color=red > (Best Paper)</font>**
+- **Public key based searchable encryption with fine-grained sender permission control<font  color=red > (Best Paper)</font>**
 
   Zhongming Wang, Biwen Chen, Tao Xiang, Lu Zhou, Hongyang Yan, Jin Li
 
   *International Conference on Provable Security (ProvSec)*
 
-- **Access control encryption without sanitizers for Internet of Energy.**
+- **Access control encryption without sanitizers for Internet of Energy**
 
   Peng Wang, Tao Xiang, Xiaoguo Li, Hong Xiang
 
   *Information Sciences*, **CCF Rank B**
 
-- **CL-ME: efficient certificateless matchmaking encryption for Internet of Things.**
+- **CL-ME: efficient certificateless matchmaking encryption for Internet of Things**
 
   Biwen Chen, Tao Xiang, Mimi Ma, Debiao He, Xiaofeng Liao
 
@@ -38,7 +39,7 @@
 
   *IEEE Transactions on Cloud Computing*
 
-- **A blockchain-based searchable public-key encryption with forward and backward privacy for cloud-assisted vehicular social networks.**
+- **A blockchain-based searchable public-key encryption with forward and backward privacy for cloud-assisted vehicular social networks**
 
   Biwen Chen, Libing Wu, Huaqun Wang, Lu Zhou, Debiao He
 

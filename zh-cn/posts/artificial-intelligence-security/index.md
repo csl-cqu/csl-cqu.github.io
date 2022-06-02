@@ -7,7 +7,7 @@
 
 ## News
 
-May. 2022: One paper accepted by TBD (**CCF B**)! Congrats to Biwen and Honghong!
+🎉 Jul. 2021: one paper accepted by ACM MM (**CCF A**)! Congrats to Ying!
 
 
 
