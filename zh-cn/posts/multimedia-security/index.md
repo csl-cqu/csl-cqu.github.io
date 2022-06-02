@@ -20,28 +20,28 @@ Multimedia combines one or different content forms such as text, audio, images, 
 
   Tao Xiang, Ying Yang, Shangwei Guo, Hangcheng Liu, Hantao Liu
 
-  *ACM International Conference on Multimedia (ACM MM)*,  **CCF Rank A**
+  *ACM International Conference on Multimedia (ACM MM)*, 2021 **CCF Rank A**
 
 * **PEID: A Perceptually Encrypted Image Database for Visual Security Evaluation**
 
   Shangwei Guo, Tao Xiang, Xiaoguo Li, Ying Yang
 
-  *IEEE Transactions on Information Forensics and Security*,   **CCF Rank A**
+  *IEEE Transactions on Information Forensics and Security*, 2019 **CCF Rank A**
 
 * **Visual Security Evaluation of Perceptually Encrypted Images Based on Image Importance**
 
   Tao Xiang, Ying Yang, Hangcheng Liu, Shangwei Guo
 
-  *IEEE Transactions on Circuits and Systems for Video Technology*,  **CCF Rank B**
+  *IEEE Transactions on Circuits and Systems for Video Technology*, 2019 **CCF Rank B**
 
 * **Blind Night-Time Image Quality Assessment: Subjective and Objective Approaches**
 
   Tao Xiang, Ying Yang, Shangwei Guo
 
-  *IEEE Transactions on Multimedia*,  **CCF Rank B**
+  *IEEE Transactions on Multimedia*, 2019 **CCF Rank B**
 
 * **Perceptual visual security index based on edge and texture similarities**
 
   Tao Xiang, Shangwei Guo, Xiaoguo Li
 
-  *IEEE Transactions on Information Forensics and Security*, **CCF Rank A**
+  *IEEE Transactions on Information Forensics and Security*, 2016 **CCF Rank A**
