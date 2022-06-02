@@ -1,27 +1,53 @@
 - title: One paper accepted by TBD! Congrats to Biwen and Honghong!
   date: 2022-5
   icon: 🎉
+  author: Admin
+  detail: One paper <i>ESB-FL&#58 Efficient and Secure Blockchain-Based Federated Learning with Fair Payment</i> accepted by TBD! Congrats to Biwen and Honghong!
 
 - title: One paper accepted by TCC! Congrats to Xiaoguo!
   date: 2022-5
   icon: 🎉
+  author: Admin
+  detail: One paper <i>C-Wall&#58 Conflict-Resistance in Privacy-Preserving Cloud Storage</i> accepted by TCC! Congrats to Xiaoguo!
 
 - title: One paper accepted by TOMM (<b>CCF B</b>)! Congrats to Honghong!
   date: 2022-4
   icon: 🎉
   author: Admin
+  detail: One paper <i>BMIF&#58 Privacy-Preserving Blockchain-Based Medical Image Fusion</i> accepted by TOMM (<b>CCF B</b>)! Congrats to Honghong!
+
+- title:  One paper accepted by IEEE Transactions on Broadcasting! Congrats!
+  date: 2022-4
+  icon: 🎉
+  author: Admin
+  detail: One paper <i>An End-to-End No-Reference Video Quality Assessment Method With Hierarchical Spatiotemporal Feature Representation</i> accepted by IEEE Transactions on Broadcasting! Congrats!
 
 - title: One paper accepted by NAACL (<b>CSL@CQU A</b>)!
   date: 2022-4
   icon: 🎉
   author: Admin
+  detail: One paper <i>Triggerless Backdoor Attack for NLP Tasks with Clean Labels</i> accepted by NAACL (<b>CSL@CQU A</b>)!
+
+- title: One paper accepted by TVT! Congrats!
+  date: 2022-2
+  icon: 🎉
+  author: Admin
+  detail: One paper <i>Practical Privacy-Preserving Federated Learning in Vehicular Fog Computing</i> accepted by TVT! Congrats!
+
+- title: One paper accepted by IEEE Transactions on Broadcasting! Congrats!
+  date: 2022-2
+  icon: 🎉
+  author: Admin
+  detail: One paper <i>Optimum Quality Control Algorithm for Versatile Video Coding</i> accepted by IEEE Transactions on Broadcasting! Congrats!
 
 - title: "Two papers accepted by ICLR (one <b style='color: red'>spotlight</b> <b>CSL@CQU A+</b> and one poster <b>CSL@CQU A</b>)!"
   date: 2022-1
   icon: 🎉
   author: Admin
+  detail: "Two papers <i>BadPre&#58 Task-agnostic Backdoor Attacks to Pre-trained NLP Foundation Models</i> and <i>NASPY: Automated Extraction of Automated Machine Learning Models</i> accepted by ICLR (one <b style='color: red'>spotlight</b> <b>CSL@CQU A+</b> and one poster <b>CSL@CQU A</b>)!"
 
 - title: "One papers accepted by TOSN  (<b>CCF B</b>)! Congrats to Hangcheng!"
   date: 2022-1
   icon: 🎉
   author: Admin
+  detail: "One papers <i>EGM&#58 An Efficient Generative Model for Unrestricted Adversarial Examples</i> accepted by TOSN  (<b>CCF B</b>)! Congrats to Hangcheng!"

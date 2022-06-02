@@ -12,8 +12,20 @@ en:
     date: 2022-4
     icon: 🎉
 
-  - title: One paper accepted by NAACL (<b>CSL@CQU A</b>)!
+  - title:  One paper accepted by IEEE Transactions on Broadcasting! Congrats!
     date: 2022-4
+    icon: 🎉
+
+  - title: One paper accepted by NAACL (<b>CSL@CQU A</b>)! Congrats!
+    date: 2022-4
+    icon: 🎉
+
+  - title:  One paper accepted by TVT! Congrats!
+    date: 2022-2
+    icon: 🎉
+
+  - title:  One paper accepted by IEEE Transactions on Broadcasting! Congrats!
+    date: 2022-2
     icon: 🎉
 
   - title: "Two papers accepted by ICLR (one <b style='color: red'>spotlight</b> <b>CSL@CQU A+</b> and one poster <b>CSL@CQU A</b>)!"
@@ -38,8 +50,20 @@ zh:
     date: 2022-4
     icon: 🎉
 
+  - title: 一篇文章被IEEE Transactions on Broadcasting接收! 恭喜!
+    date: 2022-4
+    icon: 🎉
+
   - title: 一篇文章被NAACL接收(<b>CSL@CQU A</b>)!
     date: 2022-4
+    icon: 🎉
+
+  - title: 一篇文章被TVT接收! 恭喜!
+    date: 2022-2
+    icon: 🎉
+
+  - title: 一篇文章被IEEE Transactions on Broadcasting接收! 恭喜!
+    date: 2022-2
     icon: 🎉
 
   - title: "两篇文章被ICLR接收(一篇<b style='color: red'>spotlight</b> <b>CSL@CQU A+</b> 和一篇poster <b>CSL@CQU A</b>)!!"

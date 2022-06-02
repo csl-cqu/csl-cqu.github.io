@@ -2,6 +2,10 @@
   authors: Biwen Chen, Honghong Zeng, Tao Xiang, Shangwei Guo, Tianwei Zhang, Yang Liu
   publication: IEEE Transactions on Big Data
 
+- title: "An End-to-End No-Reference Video Quality Assessment Method With Hierarchical Spatiotemporal Feature Representation"
+  authors: Wenhao Shen, Mingliang Zhou, Xingran Liao, Weijia Jia, Tao Xiang, Bin Fang, Zhaowei Shang
+  publication: IEEE Transactions on Broadcasting
+
 - title: "C-Wall: Conflict-Resistance in Privacy-Preserving Cloud Storage"
   authors: Xiaoguo Li, Tao Xiang, Yi Mu, Fuchun Guo, Zhongyuan Yao
   publication: IEEE Transactions on Cloud Computing
@@ -30,6 +34,14 @@
   link: https://arxiv.org/abs/2110.02467
   cqu_rank: A
 
+  - title: "Practical Privacy-Preserving Federated Learning in Vehicular Fog Computing"
+  authors: Yiran Li, Hongwei Li, Guowen Xu, Tao Xiang, Rongxing Lu
+  publication: IEEE Transactions on Vehicular Technology
+
+  - title: "Optimum Quality Control Algorithm for Versatile Video Coding"
+  authors: Mingliang Zhou, Xuekai Wei, Cheng Ji, Tao Xiang, Bin Fang
+  publication: IEEE Transactions on Broadcasting
+
 - title: "EGM: An Efficient Generative Model for Unrestricted Adversarial Examples"
   authors: Tao Xiang, Hangcheng Liu, Shangwei Guo, Yan Gan, Xiaofeng Liao
   publication: ACM Transactions on Sensor Networks
@@ -40,9 +52,3 @@
   authors: Yifei Cai, Qiao Zhang, Rui Ning, Chunsheng Xin, Hongyi Wu
   publication: ACM ASIA Conference on Computer and Communications Security (ASIACCS)
   cqu_rank: A
-  
-- title: "Orientation and Channel-Independent RF Fingerprinting for 5G IEEE 802.11ad Devices"
-  authors: Ning Wang, Weiwei Li, Long Jiao, Amir Alipour-Fanid, Tao Xiang, Kai Zeng
-  publication: IEEE Internet of Things Journal
-  link: https://ieeexplore.ieee.org/document/9568640
-  

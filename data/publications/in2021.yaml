@@ -130,17 +130,17 @@
   publication: IEEE Transactions on Wireless Communications(TWC)
   link: https://ieeexplore.ieee.org/document/9321212
   ccf_rank: B
-  
-- title: "Pilot Contamination Attack Detection for 5G MmWave Grant-Free IoT Networks"
-  authors: Ning Wang, Weiwei Li, Amir Alipour-Fanid, Long Jiao, Monireh Dabaghchian, Kai Zeng
-  publication: IEEE Transactions on Information Forensics and Security
-  link: https://ieeexplore.ieee.org/document/9171328
-  ccf_rank: A
 
-- title: "Hypergraph-based Adaptive Minimum Delay Data Aggregation Scheduling in Wireless Powered IoT"
-  authors: Xiaolong Jiao, Wei Lou, Songtao Guo, Ning Wang, Chao Chen and Kai Liu
-  publication: IEEE Internet of Things Journal
-  
-- title: "Online Learning-Based Defense Against Jamming Attacks in Multichannel Wireless CPS"
-  authors: Amir Alipour-Franid, Monireh Dabaghchian, Ning Wang, Long Jiao and Kai Zeng
-  publication: IEEE Internet of Things Journal
+# - title: "Pilot Contamination Attack Detection for 5G MmWave Grant-Free IoT Networks"
+#   authors: Ning Wang, Weiwei Li, Amir Alipour-Fanid, Long Jiao, Monireh Dabaghchian, Kai Zeng
+#   publication: IEEE Transactions on Information Forensics and Security
+#   link: https://ieeexplore.ieee.org/document/9171328
+#   ccf_rank: A
+
+# - title: "Hypergraph-based Adaptive Minimum Delay Data Aggregation Scheduling in Wireless Powered IoT"
+#   authors: Xiaolong Jiao, Wei Lou, Songtao Guo, Ning Wang, Chao Chen and Kai Liu
+#   publication: IEEE Internet of Things Journal
+
+# - title: "Online Learning-Based Defense Against Jamming Attacks in Multichannel Wireless CPS"
+#   authors: Amir Alipour-Franid, Monireh Dabaghchian, Ning Wang, Long Jiao and Kai Zeng
+#   publication: IEEE Internet of Things Journal

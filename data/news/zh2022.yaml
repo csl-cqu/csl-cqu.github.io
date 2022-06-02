@@ -1,28 +1,53 @@
 - title: 一篇文章被TBD接收! 恭喜泌文和宏虹!
   date: 2022-5
   icon: 🎉
+  author: Admin
+  detail: 一篇文章<i>ESB-FL&#58 Efficient and Secure Blockchain-Based Federated Learning with Fair Payment</i>被TBD接收! 恭喜泌文和宏虹!
 
 - title: 一篇文章被TCC接收! 恭喜小国!
   date: 2022-5
   icon: 🎉
+  author: Admin
+  detail: 一篇文章<i>C-Wall&#58 Conflict-Resistance in Privacy-Preserving Cloud Storage</i>被TCC接收! 恭喜小国!
 
 - title: 一篇文章被TOMM接收(<b>CCF B</b>)! 恭喜宏虹!
   date: 2022-4
   icon: 🎉
   author: Admin
+  detail: 一篇文章<i>BMIF&#58 Privacy-Preserving Blockchain-Based Medical Image Fusion</i> 被TOMM接收(<b>CCF B</b>)! 恭喜宏虹!
+
+- title:  一篇文章被IEEE Transactions on Broadcasting接收! 恭喜!
+  date: 2022-4
+  icon: 🎉
+  author: Admin
+  detail: 一篇文章<i>An End-to-End No-Reference Video Quality Assessment Method With Hierarchical Spatiotemporal Feature Representation</i>被IEEE Transactions on Broadcasting接收! 恭喜!
 
 - title: 一篇文章被NAACL接收(<b>CSL@CQU A</b>)!
   date: 2022-4
   icon: 🎉
   author: Admin
+  detail:  一篇文章<i>Triggerless Backdoor Attack for NLP Tasks with Clean Labels</i>被NAACL接收(<b>CSL@CQU A</b>)!
+
+- title:  一篇文章被TVT接收! 恭喜!
+  date: 2022-4
+  icon: 🎉
+  author: Admin
+  detail: 一篇文章<i>Practical Privacy-Preserving Federated Learning in Vehicular Fog Computing</i> 被TVT接收! 恭喜!
+
+- title:  一篇文章被IEEE Transactions on Broadcasting接收! 恭喜!
+  date: 2022-4
+  icon: 🎉
+  author: Admin
+  detail: 一篇文章<i>Optimum Quality Control Algorithm for Versatile Video Coding</i>被IEEE Transactions on Broadcasting接收! 恭喜!
 
 - title: "两篇文章被ICLR接收(一篇<b style='color: red'>spotlight</b> <b>CSL@CQU A+</b> 和一篇poster <b>CSL@CQU A</b>)!!"
   date: 2022-1
   icon: 🎉
   author: Admin
+  detail: "两篇文章<i>BadPre&#58 Task-agnostic Backdoor Attacks to Pre-trained NLP Foundation Models</i> 和 <i>NASPY: Automated Extraction of Automated Machine Learning Models</i>被ICLR接收(一篇<b style='color: red'>spotlight</b> <b>CSL@CQU A+</b> 和一篇poster <b>CSL@CQU A</b>)!!"
 
 - title: "一篇文章被TOSN接收(<b>CCF B</b>)! 恭喜航呈!"
   date: 2022-1
   icon: 🎉
   author: Admin
-  detail: "一篇文章被TOSN接收(<b>CCF B</b>)! 恭喜航呈!"
+  detail: "一篇文章<i>EGM&#58 An Efficient Generative Model for Unrestricted Adversarial Examples</i>被TOSN接收(<b>CCF B</b>)! 恭喜航呈!"

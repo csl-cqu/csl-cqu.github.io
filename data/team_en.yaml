@@ -103,11 +103,19 @@
   position: Master
 
 - name: Jixuan Duan (段霁轩)
-  interests: Applied Cryptography, Big data Security and Privacy
+  interests: Network and Hardware Security, Big data Security and Privacy
   position: Master
 
 - name: Xinyao Xiao (肖心瑶)
   interests: Artificial Intelligence Security
+  position: Master
+
+- name: Chuqin Fei (费楚钦)
+  interests: Network and Hardware Security
+  position: Master
+
+- name: Yiqiao Wei (魏薏桥)
+  interests: Network and Hardware Security
   position: Master
 
 - name: Hao Wang (王浩)
@@ -121,11 +129,4 @@
 - name: Xiangyi Fang (方香宜)
   interests: Applied Cryptography, Big data Security and Privacy
   position: Master
-  
-- name: Chuqin Fei (费楚钦)
-  interests: Artificial Intelligence Security
-  position: Master
-  
-- name: Yiqiao Wei (魏薏桥)
-  interests: Artificial Intelligence Security
-  position: Master
+
