@@ -3,11 +3,9 @@
 
 # Introduction
 大数据是网络技术进步以及边界扩展所产生的人类行为数据的集合体，通过对行为大数据的分析，可以有效改善人类的生活方式。然而，在这个过程中，大数据的使用面临着严重的质疑。这其中尤其以数据存储、使用过程中的安全性以及数据对个人信息隐私保护问题最为突出。团队旨在大数据安全与隐私保护的产研结合，探究其新技术新理论并将其付诸于理论实践。
-
-
 ## News
 
-
+🎉  Nov. 2021: our paper "Efficient Top-k Matching for Publish/Subscribe Ride Hitching" accepted by TKDE (**CCF A**). Congrats to Yafei!
 
 ## Grants
 - 国家自然科学基金区域创新发展联合基金项目（课题）：区块链的安全可控及攻击检测理论与方法研究，2022年-2025年

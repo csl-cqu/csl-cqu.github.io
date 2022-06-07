@@ -7,7 +7,21 @@ The past several years have witnessed the rapid development of Deep Learning tec
 
 ## News
 
-🎉 Jul. 2021: one paper accepted by ACM MM (**CCF A**)! Congrats to Ying!
+🎉 May. 2022: One paper accepted by TBD! Congrats to Biwen and Honghong!
+
+🎉  Apr. 2022: One paper accepted by TOMM (**CCF B**)! Congrats to Honghong!
+
+🎉  Apr. 2022: One paper accepted by NAACL (**CSL@CQU A**)! Congrats!
+
+🎉  Jan. 2022: two papers accepted by ICLR (one <font  color=red >spotlight</font> **CSL@CQU A+** and one poster **CSL@CQU A**)! Congrats to Xiaoxuan and Kangjie!
+
+🎉  Jan. 2022: our paper "EGM: An Efficient Generative Model for Unrestricted Adversarial Examples" accepted by TOSN (**CCF B**). Congrats to Hangcheng!
+
+🎉  Sep. 2021: one paper accepted by TCSVT (**CCF B**)！
+
+🎉  Aug. 2021: one paper accepted by TCSVT (**CCF B**)！
+
+🎉  Jul. 2021: one paper accepted by ACM MM (**CCF A**)! Congrats to Ying!
 
 
 
