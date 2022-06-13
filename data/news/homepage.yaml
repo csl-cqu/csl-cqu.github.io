@@ -1,7 +1,7 @@
 # 英文主页展示的新闻
 en:
   - title: One paper accepted by TCSVT! Congrats!
-    date: 2022-5
+    date: 2022-6
     icon: 🎉
 
   - title: One paper accepted by TBD! Congrats to Biwen and Honghong!
@@ -43,7 +43,7 @@ en:
 # 中文主页展示的新闻
 zh:
   - title: 一篇文章被TCSVT接收! 恭喜!
-    date: 2022-5
+    date: 2022-6
     icon: 🎉
   - title: 一篇文章被TBD接收! 恭喜泌文和宏虹!
     date: 2022-5

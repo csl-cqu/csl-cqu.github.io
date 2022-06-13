@@ -13,8 +13,9 @@ The past several years have witnessed the rapid development of Deep Learning tec
 
 
 ## News
+🎉  Jun. 2022: One paper accepted by TCSVT (**CCF B**)! Congrats to Xiaoxuan!
 
-🎉 May. 2022: One paper accepted by TBD! Congrats to Biwen and Honghong!
+🎉  May 2022: One paper accepted by TBD! Congrats to Biwen and Honghong!
 
 🎉  Apr. 2022: One paper accepted by TOMM (**CCF B**)! Congrats to Honghong!
 
@@ -33,19 +34,14 @@ The past several years have witnessed the rapid development of Deep Learning tec
 
 
 ## Grants
+
 - 国家自然科学基金青年基金项目：基于系统特征的去中心化联邦学习拜占庭容错研究，2022年-2024年
 - 国家自然科学基金青年基金项目，面向可迁移的跨模态对抗样本生成，2022年-2024年
 - 重庆市自然科学基金面上项目：面向去中心化联邦学习的拜占庭攻击与防御研究，2021年10月-2023年9月
 - 重庆市自然科学基金面上项目，基于对抗学习的小样本图像生成方法，2021年-2024年
 - 中国博士后科学基金面上项目，面向小样本的高质量可迁移对抗样本生成方法研究，2020年-2023年
 
-## AI Security
-
-* **[NASPY: Automated Extraction of Automated Machine Learning Models](https://openreview.net/forum?id=KhLK0sHMgXK)<font  color=red > (Spotlight)</font>**
-
-  Xiaoxuan Lou, Shangwei Guo, Jiwei Li, Yaoxin Wu, Tianwei Zhang
-
-  *International Conference on Learning Representations (ICLR)*, 2022 **CSL@CQU Rank A+**
+## AI Robustness
 
 * **[EGM: An Efficient Generative Model for Unrestricted Adversarial Examples](https://dl.acm.org/doi/abs/10.1145/3511893)**
 
@@ -59,17 +55,31 @@ The past several years have witnessed the rapid development of Deep Learning tec
 
   *IEEE Transactions on Computers*, 2021 **CCF Rank A**
 
-* **[Fine-tuning Is Not Enough: A Simple yet Effective Watermark Removal Attack for DNN Models](https://arxiv.org/abs/2009.08697)**
-
-  Shangwei Guo, Tianwei Zhang, Han Qiu, Yi Zeng, Tao Xiang, Yang Liu
-
-  *International Joint Conference on Artificial Intelligence (IJCAI)*, 2021 **CCF Rank A**
-
 * **[DeepSweep: An Evaluation Framework for Mitigating DNN Backdoor Attacks using Data Augmentation](https://arxiv.org/abs/2012.07006)** [[code](https://github.com/YiZeng623/DeepSweep)]
 
   Han Qiu, Yi Zeng, Shangwei Guo, Tianwei Zhang, Meikang Qiu, Bhavani Thuraisingham
 
   *ACM ASIA Conference on Computer and Communications Security (AsiaCCS)*, 2021 **CSL@CQU Rank A**
+
+## AI Privacy
+
+* **Ownership Verification of DNN Architectures via Hardware Cache Side Channels**
+
+  Xiaoxuan Lou, <u>Shangwei Guo</u>, Jiwei Li, Tianwei Zhang
+
+  *IEEE Transactions on Circuits and Systems for Video Technology*,  **CCF Rank B**
+
+* **[NASPY: Automated Extraction of Automated Machine Learning Models](https://openreview.net/forum?id=KhLK0sHMgXK)<font  color=red > (Spotlight)</font>**
+
+  Xiaoxuan Lou, Shangwei Guo, Jiwei Li, Yaoxin Wu, Tianwei Zhang
+
+  *International Conference on Learning Representations (ICLR)*, 2022 **CSL@CQU Rank A+**
+
+* **[Fine-tuning Is Not Enough: A Simple yet Effective Watermark Removal Attack for DNN Models](https://arxiv.org/abs/2009.08697)**
+
+  Shangwei Guo, Tianwei Zhang, Han Qiu, Yi Zeng, Tao Xiang, Yang Liu
+
+  *International Joint Conference on Artificial Intelligence (IJCAI)*, 2021 **CCF Rank A**
 
 * **[Stealing Deep Reinforcement Learning Models for Fun and Profit](https://arxiv.org/abs/2006.05032)**
 
@@ -82,6 +92,7 @@ The past several years have witnessed the rapid development of Deep Learning tec
   Kangjie Chen, Shangwei Guo, Tianwei Zhang, Shuxin Li, Yang Liu
 
   *International Conference on Autonomous Agents and Multiagent Systems (AAMAS)*, 2021 **CCF Rank B**
+
 ## AI Security in Distributed Systems
 
 * **ESB-FL: Efficient and Secure Blockchain-Based Federated Learning with Fair Payment**
