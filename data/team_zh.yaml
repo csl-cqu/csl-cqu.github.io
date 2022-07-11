@@ -69,10 +69,6 @@
   interests: 多媒体安全
   position: Ph.D.
 
-- name: 欧阳飞
-  interests: 人工智能安全, 自然语言处理安全
-  position: Ph.D.
-
 - name: 王中明
   interests: 应用密码学, 大数据安全与隐私保护
   position: Ph.D.
@@ -116,7 +112,7 @@
 - name: 魏薏桥
   interests: 新一代网络与物理层安全
   position: Master
-  
+
 - name: 王浩
   interests: 人工智能安全
   position: Master
