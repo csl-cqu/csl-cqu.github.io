@@ -51,14 +51,29 @@
   photo: JunqingLe.jpg
   info: 助理研究员
   email: junqingle [at] cqu [dot] edu [dot] cn
-  biography: 重庆大学弘深青年教师，在站博士后。2014年获得西南交通大学学士学位，2017年及2021年分别获西南大学硕士与博士学位（导师：廖晓峰教授）。2019年-2021年曾为美国乔治梅森大学CSC联合培养博士（导师：Kai Zeng 教授）。研究方向包括（但不局限于）隐私保护，信息安全，分布式机器学习等。已在IEEE Transactions系列等重要国际期刊及会议发表19篇学术论文，包括IEEE TCYB, IEEE TSMC, IEEE TCC等。受邀为多个国际期刊审稿人，包括：IEEE TIFS, IEEE TII, IEEE TVT, Computers & Security等。
+  biography: 重庆大学弘深青年教师。2014年获得西南交通大学学士学位，2017年及2021年分别获西南大学硕士与博士学位（导师：廖晓峰教授）。2019年-2021年曾为美国乔治梅森大学CSC联合培养博士（导师：Kai Zeng 教授）。研究方向包括（但不局限于）隐私保护，信息安全，分布式机器学习等。已在IEEE Transactions系列等重要国际期刊及会议发表19篇学术论文，包括IEEE TCYB, IEEE TSMC, IEEE TCC等。受邀为多个国际期刊审稿人，包括：IEEE TIFS, IEEE TII, IEEE TVT, Computers & Security等。
   position: member
 
 - name: 张迪
   photo: DiZhang.jpg
   info: 助理研究员
   email: dizhang [at] cqu [dot] edu [dot] cn
-  biography: 重庆大学弘深青年教师，助理研究员，2021年于西南大学计算智能与信息处理专业获取博士学位（导师：廖晓峰教授），2018-2020年于弗吉尼亚理工学院暨州立大学做联合培养博士生。研究方向包括应用密码学、云计算安全、隐私保护，区块链等。已在IEEE Transactions 系列等重要国际期刊发表多篇学术论文，其中以第一作者身份发表4篇，包括IEEE TCC, IEEE TSMC等。
+  biography: 重庆大学弘深青年教师，2021年于西南大学计算智能与信息处理专业获取博士学位（导师：廖晓峰教授），2018-2020年于弗吉尼亚理工学院暨州立大学做联合培养博士生。研究方向包括应用密码学、云计算安全、隐私保护，区块链等。已在IEEE Transactions 系列等重要国际期刊发表多篇学术论文，其中以第一作者身份发表4篇，包括IEEE TCC, IEEE TSMC等。
+  position: member
+
+- name: 何家玲
+  photo: JialingHe.jpg
+  info: 助理研究员
+  email: hejialing [at] cqu [dot] edu [dot] cn
+  biography: 重庆大学弘深青年教师。2016年、2018年及2022年分别获得北京理工大学学士、硕士、博士学位（导师：祝烈煌教授）。2020-2021年获得新西兰奥克兰大学CSC联合培养资格（导师：Bakh Khoussainov教授）。研究方向包括隐私挖掘及保护，机器学习，区块链技术等。已在CCF A/IEEE Transactions系列等重要国际期刊及会议发表学术论文10余篇，包括IEEE Transactions on Mobile Computing, IEEE Transactions on Surveys & Tutorials（IF:39.97）等。受邀为多个国际期刊审稿人，包括：IEEE TDSC，IEEE TSG等。
+  position: member
+
+
+- name: 刘高
+  photo: GaoLiu.jpg
+  info: 助理研究员
+  email: gaoliu [at] cqu [dot] edu [dot] cn
+  biography: 重庆大学弘深青年教师。2013年获得宜宾学院学士学位，2016年获得桂林电子科技大学硕士学位（导师：刘忆宁教授），2022年获得西安电子科技大学博士学位（导师：闫峥教授）。2018年-2021年曾为芬兰阿尔托大学访问学者和CSC联合培养博士（导师：Raimo Kantola教授）。研究方向包括（但不局限于）下一代移动通信网络中的安全、隐私和信任管理，具有隐私保护的可验证联邦学习，网络安全度量，数据采集以及数据聚合或融合。已在IEEE Transactions系列等重要国际期刊及会议发表14篇，包括Information Fusion, IEEE TBD等。受邀为多个国际期刊审稿人，包括：IEEE TDSC, IEEE TII等。
   position: member
 
 - name: 刘航呈
@@ -67,6 +82,10 @@
 
 - name: 潘虹阳
   interests: 多媒体安全
+  position: Ph.D.
+
+- name: 欧阳飞
+  interests: 人工智能安全, 大数据安全与隐私保护
   position: Ph.D.
 
 - name: 王中明
@@ -115,6 +134,14 @@
 
 - name: 王浩
   interests: 人工智能安全
+  position: Master
+
+- name: 田孟涵
+  interests:  新一代网络与物理层安全，大数据安全与隐私保护
+  position: Master
+
+- name: 姜泽
+  interests:  应用密码学, 大数据安全与隐私保护
   position: Master
 
 - name: 赵志超

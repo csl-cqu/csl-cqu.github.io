@@ -1,8 +1,29 @@
+- title: 两篇文章被ACM MM接收(<b>CCF A</b>)! 恭喜航呈!
+  date: 2022-6
+  icon: 🎉
+  author: Admin
+  detail: "两篇篇文章<i>Text’s Armor: Optimized Local Adversarial Perturbation Against Scene Text Editing Attacks</i>和<i>Rethinking the Vulnerability of DNN Watermarking: Are Watermarks Robust against Naturalness-aware Perturbations?</i>被ACM MM接收! 恭喜航呈!"
+
 - title: 一篇文章被TCSVT接收! 恭喜!
   date: 2022-6
   icon: 🎉
   author: Admin
   detail: 一篇文章<i>Ownership Verification of DNN Architectures via Hardware Cache Side Channels</i>被TCSVT接收! 恭喜!
+- title: 一篇文章被TMM(<b>CCF B</b>)接收! 恭喜!
+  date: 2022-6
+  icon: 🎉
+
+- title: 一篇文章被INFOCOM接收(<b>CCF A</b>)! 恭喜航呈!
+  date: 2022-5
+  icon: 🎉
+
+- title: 一篇文章被TDSC接收(<b>CCF A</b>)! 恭喜航呈!
+  date: 2022-5
+  icon: 🎉
+
+- title: 一篇文章被TPDS接收(<b>CCF A</b>)! 恭喜航呈!
+  date: 2022-5
+  icon: 🎉
 
 - title: 一篇文章被TBD接收! 恭喜泌文和宏虹!
   date: 2022-5
