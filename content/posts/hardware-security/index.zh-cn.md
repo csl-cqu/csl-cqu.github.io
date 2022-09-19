@@ -16,7 +16,7 @@ lightgallery: true
 
 ## News
 
-🎉 202X.XX: 我们的论文被XXX接收! 恭喜XXX!
+🎉 2021.1: 我们的论文被TWC接收!
 
 
 ## Grants
