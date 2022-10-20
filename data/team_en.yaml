@@ -6,11 +6,12 @@
   position: director
 
 - name: Tao Xiang (向涛)
-  photo: TaoXiang.jpg
+  photo: TaoXiang.jpeg
   info: Professor
   email: txiang [at] cqu [dot] edu [dot] cn
   biography: Prof. Xiang received the B.Eng., M.S. and Ph.D. degrees in computer science from Chongqing University, China, in 2003, 2005, and 2008, respectively. He is currently a Professor of the College of Computer Science at Chongqing University. Prof. Xiang’s research interests include multimedia security, cloud security, data privacy and cryptography. He has published over 100 papers on international journals and conferences. He also served as a referee for numerous international journals and conferences.
   position: director
+  cv: /tao_xiang
 
 - name: Ning Wang (王宁)
   photo: NingWang.jpg

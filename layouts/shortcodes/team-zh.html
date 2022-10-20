@@ -6,7 +6,13 @@
             <div class="team-member-photo">
                 <img src="/team/{{ .photo }}">
             </div>
+            {{ if .cv }}
+            <a href="{{ .cv }}">
+                <h3 style="margin-bottom: 0px;">{{ .name }}</h3>
+            </a>
+            {{ else }}
             <h3 style="margin-bottom: 0px;">{{ .name }}</h3>
+            {{ end }}
             <p>
                 <i class="fas fa-user fa-fw"></i>&nbsp;{{ .info }}<br>
                 <i class="fas fa-envelope fa-fw"></i>&nbsp;{{.email}}<br>
