@@ -52,20 +52,23 @@ My current research interests are mainly in the following areas:
 - 2009 Chongqing Natural Science Award (Second Prize), Chongqing
 
 ## Professional Societies
-- Deputy Secretary-General, ACM Chongqing Chapter
-- Vice Chairman, Circuits and Systems Society of Chinese Institute of Electronics
-- Standing Committee Member, Privacy Protection Technical Committee of China Con- fidentiality Association
-- Senior Member, China Computer Federation (CCF)
-- Senior Member, Institute of Electrical and Electronics Engineers (IEEE)
-- Member, Association for Computing Machinery (ACM)
-- Member, Chinese Institute of Electronics (CIE)
-- Member, Chinese Association for Cryptologic Research (CACR)
-- Program Committee Member of over 40 international conferences, such as
-– IEEE International Parallel and Distributed Processing Symposium (IPDPS) – IEEE International Conference on Distributed Computing Systems (ICDCS) – AAAI Conference on Artificial Intelligence (AAAI)
-– IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR) – IEEE Global Communications Conference (GLOBECOM)
-– IEEE International Conference on Communications (ICC)
-– International Conference on Information and Communications Security (ICICS)
-– International Conference on Computing, Networking and Communications (ICNC)
+- **Deputy Secretary-General**, ACM Chongqing Chapter
+- **Vice Chairman**, Circuits and Systems Society of Chinese Institute of Electronics
+- **Standing Committee Member**, Privacy Protection Technical Committee of China Con- fidentiality Association
+- **Senior Member**, China Computer Federation (CCF)
+- **Senior Member**, Institute of Electrical and Electronics Engineers (IEEE)
+- **Member**, Association for Computing Machinery (ACM)
+- **Member**, Chinese Institute of Electronics (CIE)
+- **Member**, Chinese Association for Cryptologic Research (CACR)
+- **Program Committee Member** of over 40 international conferences, such as
+  * IEEE International Parallel and Distributed Processing Symposium (IPDPS) 
+  * IEEE International Conference on Distributed Computing Systems (ICDCS) 
+  * AAAI Conference on Artificial Intelligence (AAAI)
+  * IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR) 
+  * IEEE Global Communications Conference (GLOBECOM)
+  * IEEE International Conference on Communications (ICC)
+  * International Conference on Information and Communications Security (ICICS)
+  * International Conference on Computing, Networking and Communications (ICNC)
 
 ## Professional Activities
 ### Editorships and Memberships
