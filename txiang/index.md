@@ -1,17 +1,22 @@
 # 
 
 
-<div style="text-align: center">
-<h1>Prof. Xiang</h1>
+<div style="display: flex; justify-content: space-between;">
 <div>
+<h1>Prof. Tao Xiang</h1>
+<div style="font-size: 14px">
 College of Computer Science, Chongqing University<br>
 174# Shazheng Street, Shapingba District, Chongqing 400044, China<br>
 Email: <a href="mailto:txiang@cqu.edu.cn">txiang@cqu.edu.cn</a><br>
 </div>
 </div>
+<img src="/team/TaoXiang.jpeg" style="width: 90px; flow: right">
+</div>
 
 ## Biography
-Prof. Xiang received the B.Eng., M.S. and Ph.D. degrees in computer science from Chongqing University, China, in 2003, 2005, and 2008, respectively. He is currently a Professor and Associate Dean of the College of Computer Science at Chongqing University. Prof. Xiang has published over 150 papers on top-tier international journals and conferences. He served as Associate Editor of IEEE Transactions on Cybernetics and Chinese Journal of Network and Information Security or Editorial Board Member. He also is an active referee for numerous international journals and conferences.
+<p style="text-align: justify;">
+Prof. Xiang received the B.Eng., M.S. and Ph.D. degrees in computer science from Chongqing University, China, in 2003, 2005, and 2008, respectively. He is currently a Professor and Associate Dean of the College of Computer Science at Chongqing University.
+</p>
 
 ### Research Interests
 My current research interests are mainly in the following areas:
@@ -21,8 +26,11 @@ My current research interests are mainly in the following areas:
 - Privacy
 - Distributed Machine Learning and Its Security
 - Cryptography
+- ……
+<div style="text-align: justify; font-size: 18px; color: red; border: 1px solid gray; border-radius: .25rem; padding: 5px 10px;">
+📢 I am looking for self-motivated Ph.D students, research assistants, and post-doctors who have background and interests in the above research topics. Please send me an email with your CV if you are interested.
+</div>
 
-<font  color=red >I am looking for self-motivated Ph.D students, research assistants, and post-doctors who have background and interests in the above research topics. Please send me an email with your CV if you are interested.</font>
 ## Professional Experience
 - **Nov 2018–Now**: Associate Dean, College of Computer Science, *Chongqing University*, China
 - **Sep 2014–Now** Professor, College of Computer Science, *Chongqing University*, China
@@ -33,7 +41,6 @@ My current research interests are mainly in the following areas:
 - **Aug 2007–Oct 2007**: Research Assistant, Department of Mechanical and Automation Engineering, *The Chinese University of Hong Kong*, Hong Kong, China
 - **Jun 2006–Dec 2006**: Senior Research Associate, Department of Electronic Engineering, *City University of Hong Kong*, Hong Kong, China
 - **Sep 2006–Aug 2010**: Assistant Professor, College of Computer Science, *Chongqing University*, China
-
 
 ## Academic Awards and Honors
 - 2022 Science and Technology Progress Award (First Prize), Chongqing
