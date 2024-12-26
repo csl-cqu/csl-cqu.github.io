@@ -12,7 +12,7 @@ Our team is mainly committed to cutting-edge research in information security, i
 
 Here are some themes and techniques that we currently work on:
 
-![Research](./framework.png)
+![Research](/research/framework.webp)
 
 ## Applied Cryptography
 
