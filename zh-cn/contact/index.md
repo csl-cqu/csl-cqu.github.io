@@ -4,4 +4,4 @@
 ## 实验室地址
 重庆市沙坪坝区沙正街174号主教学楼1502室
 
-![Contact](./map.jpg)
+![Contact](/contact/map.jpg)
