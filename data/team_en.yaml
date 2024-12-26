@@ -1,12 +1,12 @@
 - name: Xiaofeng Liao
-  photo: XiaofengLiao.jpg
+  photo: XiaofengLiao.webp
   info: Professor, IEEE Fellow
   email: xfliao [at] cqu [dot] edu [dot] cn
   biography: Prof. Liao received the B.S. and M.S. degrees in mathematics from Sichuan University, Chengdu, China, in 1986 and 1992, respectively, and the Ph.D. degree in circuits and systems from the University of Electronic Science and Technology of China, Chengdu, in 1997. From 1999 to 2012, he was a Professor with Chongqing University, Chongqing, China. From July 2012 to July 2018, he was a Professor and the Dean of the College of Electronic and Information Engineering, Southwest University, Chongqing. He is currently a Professor and the Dean of the College of Computer Science, Chongqing University. He is also a Yangtze River Scholar of the Ministry of Education of China, Beijing, China. From November 1997 to April 1998, he was a Research Associate with the Chinese University of Hong Kong, Hong Kong. From October 1999 to October 2000, he was a Research Associate with the City University of Hong Kong, Hong Kong. From March 2001 to June 2001 and March 2002 to June 2002, he was a Senior Research Associate at the City University of Hong Kong. From March 2006 to April 2007, he was a Research Fellow at the City University of Hong Kong. He holds five patents, and published four books and over 300 international journal and conference papers. His current research interests include optimization and control, machine learning, privacy protection, neural networks, and bifurcation and chaos. Prof. Liao currently serves as an Associate Editor of the IEEE Transactions on Cybernetics and IEEE Transactions on Neural Networks and Learning Systems
   position: director
 
 - name: Tao Xiang
-  photo: TaoXiang.jpeg
+  photo: TaoXiang.webp
   info: Professor
   email: txiang [at] cqu [dot] edu [dot] cn
   biography: Prof. Xiang received the B.Eng., M.S. and Ph.D. degrees in computer science from Chongqing University, China, in 2003, 2005, and 2008, respectively. He is currently a Professor of the College of Computer Science at Chongqing University. Prof. Xiang’s research interests include multimedia security, cloud security, data privacy and cryptography. He has published over 100 papers on international journals and conferences. He also served as a referee for numerous international journals and conferences.
@@ -14,63 +14,63 @@
   cv: /txiang
 
 - name: Ning Wang
-  photo: NingWang.jpg
+  photo: NingWang.webp
   info: Professor
   email: nwang5 [at] cqu [dot] edu [dot] cn
   biography: Prof. Wang (Member, IEEE) received the Ph.D. degree in information and communication engineering from Beijing University of Post and Telecommunication, Beijing, China, in 2017.,He was an Engineer with Huaxin Post and Telecommunications Consulting Design Company Ltd., Hangzhou, China, from 2012 to 2013. He was with the Department of Electrical and Computer Engineering, George Mason University, Fairfax, VA, USA, as a Postdoctoral Scholar from 2017 to 2020. He is currently a Professor with the College of Computer Science, Chongqing University, Chongqing, China. His current research interests are in physical layer security, machine learning, RF fingerprinting, and cyber–physical system security and privacy.
   position: member
 
 - name: Shangwei Guo
-  photo: ShangweiGuo.jpg
+  photo: ShangweiGuo.webp
   info: Associate Professor
   email: swguo [at] cqu [dot] edu [dot] cn
   biography: Shangwei is an associate professor in the College of Computer Science, Chongqing University. He worked as a postdoctoral research fellow at the Database Lab, Hong Kong Baptist University from 2018 to 2019 (supervised by Prof. Jianliang XU). Before joining CQU, he worked as a research fellow at the Cyber Security Lab, School of Computer Science and Engineering, Nanyang Technological University from 2019 to 2020 (supervised by Prof. Yang LIU and Prof. Tianwei ZHANG). He obtained his PhD degree from the School of Computer Science, Chongqing University (supervised by Prof. Tao XIANG).
   position: member
 
 - name: Chuan Ma
-  photo: ChuanMa.jpg
+  photo: ChuanMa.webp
   info: Associate Professor
   email: chuan [dot] ma [at] cqu [dot] edu [dot] cn
   biography: Chuan Ma received the B.S. degree from the Beijing University of Posts and Telecommunications, Beijing, China, in 2013 and Ph.D. degree from the University of Sydney, Australia, in 2018. From 2018 to 2022, he worked as a lecturer in the Nanjing University of Science and Technology, and now he is an associated professor at the school of computer science, Chongqing University. He has published more than 40 journal and conference papers, including a best paper in WCNC 2018, and a best paper award in IEEE Signal Processing Society 2022. His research interests include stochastic geometry, wireless caching networks and distributed machine learning, and now focuses on the big data analysis and privacy-preserving.
   position: member
   
 - name: Biwen Chen
-  photo: BiwenChen.jpg
+  photo: BiwenChen.webp
   info: Research Assistant Professor
   email: macrochen [at] cqu [dot] edu [dot] cn
   biography: Biwen received his Ph.D. degree from School of Computer, Wuhan University in 2020. He is currently a research assistant professor of the School of Computer, Chongqing University, China. His main research interests include cryptography, information security and blockchain.
   position: member
 
 - name: Yan Gan
-  photo: YanGan.jpg
+  photo: YanGan.webp
   info: Research Assistant Professor
   email: shiyangancq [at] cqu [dot] edu [dot] cn
   biography: Yan received the Ph.D. of Computer Science in University of Electronic Science and Technology of China, Chengdu, China. He is currently a research assistant professor of the School of Computer, Chongqing University, China. His current research interests include machine learning and computer vision. He is a reviewer for several journals, such as Engineering applications of artificial intelligence, Neurocomputing.
   position: member
 
 - name: Qiao Zhang
-  photo: QiaoZhang.jpg
+  photo: QiaoZhang.webp
   info: Research Assistant Professor
   email: qiaozhang [AT] cqu [DOT] edu [DOT] cn
   biography: Qiao is a research assistant professor at College of Computer Science, Chongqing University, China. Before that, She obtained her Ph.D. degree (advised by Prof. Hongyi Wu) at Department of Electrical and Computer Engineering in Old Dominion University (Class 2021Fall). Her current research is about the privacy-preserved machine learning and she has published papers such as in NDSS, AsiaCCS, IJCAI, IEEE IoT Journal, IEEE TNSE.
   position: member
 
 - name: Junqing Le
-  photo: JunqingLe.jpg
+  photo: JunqingLe.webp
   info: Research Assistant Professor
   email: junqingle [at] cqu [dot] edu [dot] cn
   biography: Junqing received the B.S. degree in software engineering from Southwest Jiaotong University, Chengdu, china, in 2014, the M.S. degree in signal and information processing and the Ph.D. degree in intelligent computing and information Processing from Southwest University, Chongqing, China, in 2017 and 2021, respectively. From May 2019 to May 2021, he was a visiting scholar in George Mason University. At present, he is a research assistant professor with Collage of Computer Science, Chongqing University. His research interests include federated learning security and privacy, privacy of machine learning, differential privacy, and etc.
   position: member
 
 - name: Di Zhang
-  photo: DiZhang.jpg
+  photo: DiZhang.webp
   info: Research Assistant Professor
   email: dizhang [at] cqu [dot] edu [dot] cn
   biography: Di received the Ph.D. degree in Computational Intelligence and Information Processing from Southwest University, Chongqing, China, in 2021. From 2018 to 2020, she was a visiting Ph.D. student with the Department of Computer Science, Virginia Polytechnic Institute and State University, Virginia, United States. At present, she is a research assistant professor of the Collage of Computer Science, Chongqing University, China. Her research interests include applied crypto, cloud computing security, privacy protection, and blockchain. She has published research papers in top international journals, including TCC and TSMC.
   position: member
 
 - name: Jialing He
-  photo: JialingHe.jpg
+  photo: JialingHe.webp
   info: Research Assistant Professor
   email: hejialing [at] cqu [dot] edu [dot] cn
   biography: Jialing received the B.S., M.S. and Ph.D. degrees from the Beijing Institute of Technology, Beijing, China, in 2016, 2018 and 2022, respectively. From September 2020 to September 2021, she was a visiting scholar in the University of Auckland, New Zealand. At present, she is a research assistant professor in College of Computer Science, Chongqing University, Chongqing, China. Her current research interests include user behavior mining, privacy protection, machine learning, and more.
@@ -78,7 +78,7 @@
 
 
 - name: Gao Liu
-  photo: GaoLiu.jpg
+  photo: GaoLiu.webp
   info: Research Assistant Professor
   email: gaoliu [at] cqu [dot] edu [dot] cn
   biography: Gao Liu received the Ph.D. degree in information security from Xidian University, Xi’an, China, in 2022. From September 2018 to December 2018 and November 2019 to March 2021, he was a visiting scholar in Aalto University. At present, he is a research assistant professor with College of Computer Science, Chongqing University. His research interests include security, privacy, and trust management in the next generation mobile communication networks, privacy-preserving verifiable federated learning, network security measurement, data collection, and data aggregation or fusion.

@@ -1,12 +1,12 @@
 - name: 廖晓峰
-  photo: XiaofengLiao.jpg
+  photo: XiaofengLiao.webp
   info: 教育部“长江学者”特聘教授, 计算机学院院长，IEEE Fellow
   email: xfliao [at] cqu [dot] edu [dot] cn
   biography: 长期从事人工神经网络、动力学系统理论、混沌密码学、信息安全、隐私保护等领域的研究。先后获得教育部“长江学者”特聘教授，IEEE Fellow，新世纪百千万国家级人才，全国优秀博士后，教育部新世纪优秀人才，享受国务院政府特殊津贴的专家，重庆市“322”人才工程一层次人才，重庆市学术技术带头人。曾担任ACM重庆分会主席；现任IEEE计算智能学会重庆分会副主席；IEEE Transactions on Cybernetics、IEEE Transactions on Neural Networks and Learning Systems副编辑；30余个国际一流刊物的特邀审稿人；中国电子学会“非线性电路与混沌”专委会副主任委员；中国通信学会“混沌密码”专委会委员；重庆市“电子学会”副理事长；教育部“物联网工程专业教学研究专家组”成员；中共重庆市委组织部“信息化建设”工作专家咨询组成员。在国际重要刊物，如IEEE Transactions on Information Theory, IEEE Transactions on Computers, IEEE Transactions on Neural networks and Learning Systems, IEEE Transactions on Systems, Man and Cybernetics, IEEE Transactions on Circuits and Systems, IEEE Transactions on Automatic Control等发表论文600余篇，引用超过20000次，目前H指数为81（Google Scholar）。连续8年入选Elsevier中国计算机学科高被引学者榜单。获教育部和重庆市自然科学奖励6项、授权专利4项，编辑《混沌密码学及其应用》，《时滞动力学系统的分岔与混沌上、下册》，《非线性系统的不连续控制》专著三部。获得包括国家重点研发、国家自然科学基金面上在内的大小项目20余项，经费近2000万元。
   position: director
 
 - name: 向涛
-  photo: TaoXiang.jpeg
+  photo: TaoXiang.webp
   info: 教授，计算机学院副院长，重庆市杰青
   email: txiang [at] cqu [dot] edu [dot] cn
   biography: 教育部“新世纪优秀人才支持计划”获得者，重庆市杰出青年基金获得者，重庆市优秀博士论文获得者。IEEE会员，ACM会员，中国计算机学会会员，中国密码学会会员，中国计算机学会区块链专委会委员，中国图象图形学学会数字媒体取证与安全专委会委员，中国电子学会电路与系统分会混沌与非线性电路专委会副主任，中国密码学会混沌保密通信专委会委员，中国保密协会隐私保护专业委员会委员，四川省计算机学会网络与信息系统专委会副主任。香港中文大学、香港城市大学、美国马萨诸塞大学洛厄尔分校访问学者。研究方向包括（但不局限于）区块链、隐私保护、人工智能安全、多媒体安全、云计算安全、大数据安全等。
@@ -14,63 +14,63 @@
   cv: /zh-cn/txiang/
 
 - name: 王宁
-  photo: NingWang.jpg
+  photo: NingWang.webp
   info: 教授
   email: nwang5 [at] cqu [dot] edu [dot] cn
   biography: 重庆大学“泓深青年学者”，IEEE Member。北京邮电大学博士，美国乔治梅森大学博士后研究员。研究方向包括（但不局限于）物理层安全，信息物理系统安全及隐私保护，射频指纹，以及机器学习和无人机安全等。相关研究成果先后发表于IEEE Networks Magazine, IEEE Transactions on Information Forensics and Security, IEEE Transactions on Wireless Communication, IEEE International Conference on Computer Communications, IEEE Internet of Things Journal等国际主流期刊及会议。受邀为多个国际期刊会议审稿人，包括：IEEE TIFS, IEEE TWC, IEEE TMC, IEEE TCOM, IEEE TVT, IEEE TCCN, IEEE Wireless Communication magazine, IEEE IoT Journal, IEEE INFOCOM, IEEE CNS, IEEE GLOBECOM等。
   position: member
 
 - name: 郭尚伟
-  photo: ShangweiGuo.jpg
+  photo: ShangweiGuo.webp
   info: 副教授
   email: swguo [at] cqu [dot] edu [dot] cn
   biography: 先后在香港浸会大学数据库实验室（合作导师徐建良教授）和新加坡南洋理工大学网络安全实验室（合作导师刘杨教授和张天威教授）从事研究工作。研究方向包括（但不局限于）人工智能安全，联邦学习安全，大数据安全以及多媒体安全等。先后主持国家自然科学基金联合重点项目课题、青年科学基金，重庆市面上等项目，相关研究成果先后发表于ICLR, ICDE, CVPR, ACM MM, IJCAI, AsiaCCS, AAMAS等国际或领域顶级会议和TIFS, TC, TCSVT, TMM, TSC, TOSN等国际或领域顶级期刊。
   position: member
 
 - name: 马川
-  photo: ChuanMa.jpg
+  photo: ChuanMa.webp
   info: Associate Professor
   email: chuan [dot] ma [at] cqu [dot] edu [dot] cn
   biography: 重庆大学计算机学院担任副教授，IEEE可信数据共享国际标准委员会秘书长。马川博士于2009年至2013年在北京邮电大学攻读学士学位，于2014年至2018年在悉尼大学攻读博士学位。马川博士致力于无线通信、机器学习以及隐私保护融合的相关研究，面向信息论、随机优化理论和人工智能的交叉融合，先后开展了基于社交网络的基站缓存技术、高密度基站的网络性能分析以及基于大数据的隐私保护算法设计等工作，目前专注于分布式多智能体系统的的隐私与安全保护方向，并取得了一定的创新型成果。已在相关研究领域发表英文论文40余篇，其中在SCI期刊上发表论文20余篇，2篇ESI高被引论文。马川博士获得2018年国际会议IEEE WCNC学生最佳论文奖，2022年IEEE信号处理协会最佳论文奖，2022年中国电子协会网络安全协会最佳论文，担任多个知名国际期刊，国际会议的审稿人。
   position: member
   
 - name: 陈泌文
-  photo: BiwenChen.jpg
+  photo: BiwenChen.webp
   info: 助理研究员
   email: macrochen [at] cqu [dot] edu [dot] cn
   biography: 重庆大学弘深青年教师，武汉大学博士。研究方向包括：密码学应用、信息安全、云计算、区块链等。主持或参与广西可信软件重点实验室开放课题、国家自然科学基金面上项目、国家自然科学基金重点项目子课题、国家重点研发项目子课题等。近年来，在IEEE Internet of Things Journal、IEEE Transactions on Network Science and Engineering 、IEEE Transactions on Cloud Computing、IEEE Transactions on Vehicular Technology、IEEE Transactions on Emerging Topics in Computing、 Journal of Parallel and Distributed Computing、计算机学报、密码学报等国内外知名期刊上发表学术论文10余篇。受邀为多个国际期刊会议审稿人，包括：IEEE TVT、TCC, System Journal, Soft Computing, The Journal of Supercomputing等。
   position: member
 
 - name: 淦艳
-  photo: YanGan.jpg
+  photo: YanGan.webp
   info: 助理研究员
   email: shiyangancq [at] cqu [dot] edu [dot] cn
   biography: 重庆大学弘深青年教师，博士毕业于电子科技大学。研究方向包括：对抗机器学习，计算机视觉。相关研究成果先后发表于多个国际主流期刊及会议。主持中国博士后面上项目1项，主研国家重点研发计划2项，参研国家自然基金（面上或联合基金）3项，其它省部级项目2项。受邀为国际期刊Engineering Applications of Artificial Intelligence, Neurocomputing，International Journal of Pattern Recognition and Artificial Intelligence审稿人。
   position: member
 
 - name: 张巧
-  photo: QiaoZhang.jpg
+  photo: QiaoZhang.webp
   info: 助理研究员
   email: qiaozhang [at] cqu [dot] edu [dot] cn
   biography: 重庆大学弘深青年教师，博士毕业于欧道明大学(Old Dominion University)。主要研究方向为机器学习与隐私保护计算，已在NDSS、AsiaCCS、IJCAI、IEEE IoT Journal、IEEE TNSE等权威会议及期刊发表文章。
   position: member
 
 - name: 乐俊青
-  photo: JunqingLe.jpg
+  photo: JunqingLe.webp
   info: 助理研究员
   email: junqingle [at] cqu [dot] edu [dot] cn
   biography: 重庆大学弘深青年教师。2014年获得西南交通大学学士学位，2017年及2021年分别获西南大学硕士与博士学位（导师：廖晓峰教授）。2019年-2021年曾为美国乔治梅森大学CSC联合培养博士（导师：Kai Zeng 教授）。研究方向包括（但不局限于）隐私保护，信息安全，分布式机器学习等。已在IEEE Transactions系列等重要国际期刊及会议发表19篇学术论文，包括IEEE TCYB, IEEE TSMC, IEEE TCC等。受邀为多个国际期刊审稿人，包括：IEEE TIFS, IEEE TII, IEEE TVT, Computers & Security等。
   position: member
 
 - name: 张迪
-  photo: DiZhang.jpg
+  photo: DiZhang.webp
   info: 助理研究员
   email: dizhang [at] cqu [dot] edu [dot] cn
   biography: 重庆大学弘深青年教师，2021年于西南大学计算智能与信息处理专业获取博士学位（导师：廖晓峰教授），2018-2020年于弗吉尼亚理工学院暨州立大学做联合培养博士生。研究方向包括应用密码学、云计算安全、隐私保护，区块链等。已在IEEE Transactions 系列等重要国际期刊发表多篇学术论文，其中以第一作者身份发表4篇，包括IEEE TCC, IEEE TSMC等。
   position: member
 
 - name: 何家玲
-  photo: JialingHe.png
+  photo: JialingHe.webp
   info: 助理研究员
   email: hejialing [at] cqu [dot] edu [dot] cn
   biography: 重庆大学弘深青年教师。2016年、2018年及2022年分别获得北京理工大学学士、硕士、博士学位（导师：祝烈煌教授）。2020-2021年获得新西兰奥克兰大学CSC联合培养资格（导师：Bakh Khoussainov教授）。研究方向包括隐私挖掘及保护，机器学习，区块链技术等。已在CCF A/IEEE Transactions系列等重要国际期刊及会议发表学术论文10余篇，包括IEEE Transactions on Mobile Computing, IEEE Transactions on Surveys & Tutorials（IF:39.97）等。受邀为多个国际期刊审稿人，包括：IEEE TDSC，IEEE TSG等。
@@ -78,7 +78,7 @@
 
 
 - name: 刘高
-  photo: GaoLiu.png
+  photo: GaoLiu.webp
   info: 助理研究员
   email: gaoliu [at] cqu [dot] edu [dot] cn
   biography: 重庆大学弘深青年教师。2013年获得宜宾学院学士学位，2016年获得桂林电子科技大学硕士学位（导师：刘忆宁教授），2022年获得西安电子科技大学博士学位（导师：闫峥教授）。2018年-2021年曾为芬兰阿尔托大学访问学者和CSC联合培养博士（导师：Raimo Kantola教授）。研究方向包括（但不局限于）下一代移动通信网络中的安全、隐私和信任管理，具有隐私保护的可验证联邦学习，网络安全度量，数据采集以及数据聚合或融合。已在IEEE Transactions系列等重要国际期刊及会议发表14篇，包括Information Fusion, IEEE TBD等。受邀为多个国际期刊审稿人，包括：IEEE TDSC, IEEE TII等。
