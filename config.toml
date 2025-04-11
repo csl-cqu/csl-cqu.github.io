@@ -255,7 +255,7 @@ theme = 'LoveIt'
     since = 2022
     # ICP info only in China (HTML format is supported)
     # ICP 备案信息，仅在中国使用 (支持 HTML 格式)
-    icp = "滇ICP备16009236号-6"
+    icp = "<a href='https://beian.miit.gov.cn/'>滇ICP备16009236号-6</a>"
     # license info (HTML format is supported)
     # 许可协议信息 (支持 HTML 格式)
     license= ''
@@ -461,7 +461,7 @@ theme = 'LoveIt'
 # Author config
 # 作者配置
 [author]
-  name = "Cyber Security Laboratory, Chongqing University."
+  name = "CSL @ CQU"
 
 
 # Options to make output .md files
